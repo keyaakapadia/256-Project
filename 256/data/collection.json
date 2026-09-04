@@ -6,8 +6,8 @@
       "two-five-six-zp015cq1v2k"
     ],
     "built": "2026-09-03 23:08",
-    "total": 301,
-    "collected": 301,
+    "total": 260,
+    "collected": 260,
     "needed": 0,
     "categories": [
       "Streets & public space",
@@ -158,7 +158,7 @@
       "title": "Portrait shattered into a brick grid of photo fragments",
       "spectrum": "order",
       "spectrum_rank": 4,
-      "category": "Streets & public space",
+      "category": "People & gatherings",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -238,7 +238,7 @@
       "title": "Glowing tiles scattering across dark pavement",
       "spectrum": "order",
       "spectrum_rank": 6,
-      "category": "Streets & public space",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -438,7 +438,7 @@
       "title": "Red flowers seen through ribbed gridded glass",
       "spectrum": "order",
       "spectrum_rank": 11,
-      "category": "Abstract & image-grids",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -718,7 +718,7 @@
       "title": "Woven-textile study in blocks on graph paper (Bauhaus)",
       "spectrum": "order",
       "spectrum_rank": 18,
-      "category": "Pattern & texture",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -758,7 +758,7 @@
       "title": "Stacked toilet-paper rolls forming a loose grid of holes",
       "spectrum": "order",
       "spectrum_rank": 19,
-      "category": "Abstract & image-grids",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -999,7 +999,7 @@
       "title": "One figure posed in each box of a stacked grid",
       "spectrum": "order",
       "spectrum_rank": 25,
-      "category": "Abstract & image-grids",
+      "category": "People & gatherings",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -1079,7 +1079,7 @@
       "title": "Woven paper strips with coloured dots at the crossings",
       "spectrum": "order",
       "spectrum_rank": 27,
-      "category": "Home & objects",
+      "category": "Pattern & texture",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -1961,7 +1961,7 @@
       "title": "Painted wire grid warping over a tiled wall",
       "spectrum": "order",
       "spectrum_rank": 50,
-      "category": "Op-art & moiré",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -2282,7 +2282,7 @@
       "title": "Dancer on a ledge against a gridded concert-hall wall",
       "spectrum": "order",
       "spectrum_rank": 58,
-      "category": "Abstract & image-grids",
+      "category": "People & gatherings",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -2322,7 +2322,7 @@
       "title": "Portion of a beetle's eye — compound-eye cells",
       "spectrum": "order",
       "spectrum_rank": 59,
-      "category": "Abstract & image-grids",
+      "category": "Nature, farming & landscape",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -2483,7 +2483,7 @@
       "title": "Forks interlocking tines-to-tines into a grid",
       "spectrum": "order",
       "spectrum_rank": 63,
-      "category": "Abstract & image-grids",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -2643,7 +2643,7 @@
       "title": "A look at @drewdoggettphotography's striking minimalist series, Dunes of Namibia. So beautiful. See more of on minimalissimo.com",
       "spectrum": "order",
       "spectrum_rank": 67,
-      "category": "Abstract & image-grids",
+      "category": "Nature, farming & landscape",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -2705,41 +2705,6 @@
       "order_index": 67
     },
     {
-      "id": "arena-2106612",
-      "title": "Paris is always Paris and Berlin is never Berlin! #graphicdesign #design #contemporary #typography #studio #minimal #...",
-      "spectrum": "order",
-      "spectrum_rank": 69,
-      "category": "Type & lettering",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/paris-is-always-paris-and-berlin-is-never-berlin-graphicde.jpg",
-      "source_url": "https://www.instagram.com/p/BiFrFsfDXnP/?taken-by=_frankwo_",
-      "source_label": "instagram.com",
-      "arena_block_url": "https://www.are.na/block/2106612",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/2106612/original_d79dabc6c9d3fab0bfe97e60c29fad0a?1524924654?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#5d614e",
-        "palette": [
-          "#010201",
-          "#fefffe",
-          "#302e0b",
-          "#b0b64b",
-          "#536b2e"
-        ],
-        "avg": [
-          93,
-          97,
-          78
-        ]
-      },
-      "notes": "229 Likes, 1 Comments - frank wo (@_frankwo_) on Instagram: \"Paris is always Paris and Berlin is never Berlin! #graphicdesign #design #contemporary #typography...\"",
-      "user_edited": true,
-      "order_index": 68
-    },
-    {
       "id": "arena-1698047",
       "title": "Op-art / pattern grid (Are.na)",
       "spectrum": "order",
@@ -2776,46 +2741,11 @@
       "order_index": 69
     },
     {
-      "id": "arena-800528",
-      "title": "Swiss-grid poster — a white circle in an ink cloud (MIT)",
-      "spectrum": "order",
-      "spectrum_rank": 71,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/grid-extra-800528.png",
-      "source_url": "http://thedesignerandthegrid.tumblr.com/image/154376391527",
-      "source_label": "thedesignerandthegrid.tumblr.com",
-      "arena_block_url": "https://www.are.na/block/800528",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/800528/original_7fb4899f692f35116de1052a64bc584a.png?1481567385?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#cfcfcf",
-        "palette": [
-          "#ebebeb",
-          "#0e0e0e",
-          "#d2d2d2",
-          "#b0b0b0",
-          "#8b8b8b"
-        ],
-        "avg": [
-          207,
-          207,
-          207
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 70
-    },
-    {
       "id": "arena-112084",
       "title": "Vertical rainbow-streak glitch panel on a poster",
       "spectrum": "order",
       "spectrum_rank": 72,
-      "category": "Abstract & image-grids",
+      "category": "Op-art & moiré",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -2882,146 +2812,6 @@
       "order_index": 72
     },
     {
-      "id": "arena-1081206",
-      "title": "Kenya Hara 'White' poster — loose letterpress type in a tray",
-      "spectrum": "order",
-      "spectrum_rank": 74,
-      "category": "Type & lettering",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/grid-extra-1081206.jpg",
-      "source_url": "http://wangzhihong.com/Project/White",
-      "source_label": "wangzhihong.com",
-      "arena_block_url": "https://www.are.na/block/1081206",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1081206/original_3d8a52af15671b706c61aeac5fd0a3d9.jpg?1497734471?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#777472",
-        "palette": [
-          "#342f2b",
-          "#f2f2f2",
-          "#b5b6b6",
-          "#cacbcc",
-          "#1c1a15"
-        ],
-        "avg": [
-          119,
-          116,
-          114
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 73
-    },
-    {
-      "id": "arena-876277",
-      "title": "2Q==",
-      "spectrum": "order",
-      "spectrum_rank": 75,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/2q.jpg",
-      "source_url": "https://www.are.na/block/876277",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/876277",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/876277/original_db048d03e195fb3a7e432511613fb8e8.jpg?1486821328?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#555555",
-        "palette": [
-          "#0a0a0a",
-          "#f1f1f1",
-          "#6d6d6d",
-          "#b0b0b0",
-          "#505050"
-        ],
-        "avg": [
-          85,
-          85,
-          85
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 74
-    },
-    {
-      "id": "arena-1055520",
-      "title": "petrol-back",
-      "spectrum": "order",
-      "spectrum_rank": 76,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/petrol-back.jpg",
-      "source_url": "https://www.are.na/block/1055520",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/1055520",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1055520/original_b903e6844ab435f66ff482d5bb533c3a.jpg?1496661611?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#2d2f2e",
-        "palette": [
-          "#0c100f",
-          "#4e4f4d",
-          "#2e3132",
-          "#192429",
-          "#4b443c"
-        ],
-        "avg": [
-          45,
-          47,
-          46
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 75
-    },
-    {
-      "id": "arena-1359483",
-      "title": "Atrium poster series — square photo in a text grid",
-      "spectrum": "order",
-      "spectrum_rank": 77,
-      "category": "Type & lettering",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/grid-extra-1359483.jpg",
-      "source_url": "https://www.are.na/block/1359483",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/1359483",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1359483/original_15a8a15686c51eca798fa77fff3bdc00.jpg?1508769198?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#878787",
-        "palette": [
-          "#f2f2f2",
-          "#020202",
-          "#d2d2d2",
-          "#b0b0b0",
-          "#4a4b4a"
-        ],
-        "avg": [
-          135,
-          135,
-          135
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 76
-    },
-    {
       "id": "arena-153726",
       "title": "Musashino Art University poster — soft red gradient sun",
       "spectrum": "order",
@@ -3055,41 +2845,6 @@
       "notes": "",
       "user_edited": true,
       "order_index": 77
-    },
-    {
-      "id": "arena-155191",
-      "title": "adv_120801_dn-44",
-      "spectrum": "order",
-      "spectrum_rank": 79,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/adv-120801-dn-44.jpg",
-      "source_url": "http://www.k.tamabi.ac.jp/pro/adv-images/adv_120801_dn-44.jpg",
-      "source_label": "k.tamabi.ac.jp",
-      "arena_block_url": "https://www.are.na/block/155191",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/155191/original_7e407625a5f948cf767eea7997566566.jpg?1380216353?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#7f7f7f",
-        "palette": [
-          "#f0f0f0",
-          "#030202",
-          "#cfcfcf",
-          "#b0b0af",
-          "#717171"
-        ],
-        "avg": [
-          127,
-          127,
-          127
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 78
     },
     {
       "id": "arena-152530",
@@ -3197,41 +2952,6 @@
       "order_index": 81
     },
     {
-      "id": "arena-1067820",
-      "title": "helvetica-poster-poster-decoration-empatia-silkscreen-escandinavian-home-house-design-diseo-argentina-typography-tipografia-font-11",
-      "spectrum": "order",
-      "spectrum_rank": 83,
-      "category": "Type & lettering",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/helvetica-poster-poster-decoration-empatia-silkscreen-esca.jpg",
-      "source_url": "https://www.are.na/block/1067820",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/1067820",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1067820/original_63b2f24d0d6fda922fcf1431d2a02d7e.jpg?1497123789?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#232222",
-        "palette": [
-          "#010101",
-          "#d7d4d2",
-          "#948f8d",
-          "#2e2d2c",
-          "#b2acaa"
-        ],
-        "avg": [
-          35,
-          34,
-          34
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 82
-    },
-    {
       "id": "arena-741485",
       "title": "Op-art / pattern grid (Are.na)",
       "spectrum": "order",
@@ -3305,10 +3025,10 @@
     },
     {
       "id": "arena-1220407",
-      "title": "Photo-Dec-18-3-18-25-PM",
+      "title": "Alex Carro face-oil — box and dropper bottle, text in a grid",
       "spectrum": "order",
       "spectrum_rank": 86,
-      "category": "Abstract & image-grids",
+      "category": "Stores & commerce",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -3343,7 +3063,7 @@
       "title": "Storage dashboard UI — tiles sized and coloured by data type",
       "spectrum": "order",
       "spectrum_rank": 87,
-      "category": "Schools & offices",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -3479,41 +3199,6 @@
       "notes": "",
       "user_edited": true,
       "order_index": 89
-    },
-    {
-      "id": "arena-2562589",
-      "title": "'STUDIO' set large in a grid, letters rotated out of line",
-      "spectrum": "order",
-      "spectrum_rank": 91,
-      "category": "Type & lettering",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/grid-extra-2562589.jpg",
-      "source_url": "http://rudmer.tumblr.com/post/177035691439/posterdesign-graphicdesign-typography",
-      "source_label": "rudmer.tumblr.com",
-      "arena_block_url": "https://www.are.na/block/2562589",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/2562589/original_b1b58eec1ed6dd357a132073427f3a35.jpg?1534414057?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#6b6b6b",
-        "palette": [
-          "#8e8e8e",
-          "#272727",
-          "#787878",
-          "#acacac",
-          "#4e4e4e"
-        ],
-        "avg": [
-          107,
-          107,
-          107
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 90
     },
     {
       "id": "arena-1787141",
@@ -3692,41 +3377,6 @@
       "order_index": 95
     },
     {
-      "id": "arena-3469515",
-      "title": "andatelier_mam18_11",
-      "spectrum": "order",
-      "spectrum_rank": 97,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/andatelier-mam18-11.jpg",
-      "source_url": "http://and-atelier.com/content/2-Projects/31-mam-18/AndAtelier_mam18_11.jpg",
-      "source_label": "and-atelier.com",
-      "arena_block_url": "https://www.are.na/block/3469515",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/3469515/original_9833055db406969edd6667886082553e.jpg?1548185607?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#91908f",
-        "palette": [
-          "#f6f6f6",
-          "#141414",
-          "#2d2b2a",
-          "#d2d1d1",
-          "#939190"
-        ],
-        "avg": [
-          145,
-          144,
-          143
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 96
-    },
-    {
       "id": "arena-3513502",
       "title": "danielcarlsten_bozarthfornell_0011",
       "spectrum": "order",
@@ -3763,10 +3413,10 @@
     },
     {
       "id": "arena-534020",
-      "title": "GRAPHIC-TRIAL-2011_01",
+      "title": "Toppan print trial — nested translucent red rectangles with a swatch strip",
       "spectrum": "order",
       "spectrum_rank": 99,
-      "category": "Abstract & image-grids",
+      "category": "Pattern & texture",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -3797,44 +3447,11 @@
       "order_index": 98
     },
     {
-      "id": "arena-342642",
-      "title": "tumblr-n679lhibcf1qa2g6fo1-1280",
-      "spectrum": "order",
-      "spectrum_rank": 100,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/tumblr-n679lhibcf1qa2g6fo1-1280.jpg",
-      "source_url": "http://reform.lt/data/images/2014/09/tumblr-n679lhibcf1qa2g6fo1-1280.jpg",
-      "source_label": "reform.lt",
-      "arena_block_url": "https://www.are.na/block/342642",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/342642/original_5660b80e36615dc4912e78dc7580d6c1.jpg?1424531974?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#e6e6e6",
-        "palette": [
-          "#eaeaea",
-          "#d7d7d7",
-          "#bebebe"
-        ],
-        "avg": [
-          230,
-          230,
-          230
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 99
-    },
-    {
       "id": "arena-1499364",
       "title": "Nike MMW tee print — a warped square grid and product codes",
       "spectrum": "order",
       "spectrum_rank": 101,
-      "category": "Op-art & moiré",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -3863,41 +3480,6 @@
       "notes": "",
       "user_edited": true,
       "order_index": 100
-    },
-    {
-      "id": "arena-2860922",
-      "title": "poster2",
-      "spectrum": "order",
-      "spectrum_rank": 102,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/poster2.jpg",
-      "source_url": "https://www.are.na/block/2860922",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/2860922",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/2860922/original_469d4431ab3d041fe1e91fb3e916b8dd.jpg?1539360689?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#8b867f",
-        "palette": [
-          "#050505",
-          "#d1cfcc",
-          "#e3e2e0",
-          "#b6b5b4",
-          "#e2e1df"
-        ],
-        "avg": [
-          139,
-          134,
-          127
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 101
     },
     {
       "id": "arena-2809108",
@@ -3933,76 +3515,6 @@
       "notes": "",
       "user_edited": true,
       "order_index": 102
-    },
-    {
-      "id": "arena-1970907",
-      "title": "Hood-By-Air-Spring-2017",
-      "spectrum": "order",
-      "spectrum_rank": 104,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/hood-by-air-spring-2017.jpg",
-      "source_url": "https://www.are.na/block/1970907",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/1970907",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1970907/original_58c426efc58974999e9a75586e956f43.jpg?1522377626?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#292625",
-        "palette": [
-          "#0f0e0f",
-          "#2c2e31",
-          "#4e5152",
-          "#6b7072",
-          "#271a11"
-        ],
-        "avg": [
-          41,
-          38,
-          37
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 103
-    },
-    {
-      "id": "arena-1538926",
-      "title": "Shrink-wrapped report with a faint Venn-diagram outline",
-      "spectrum": "order",
-      "spectrum_rank": 105,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/grid-extra-1538926.jpg",
-      "source_url": "https://www.are.na/block/1538926",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/1538926",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1538926/original_cdb38917dbf5d0c19bdd8738e121ea0b.jpg?1514455184?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#545454",
-        "palette": [
-          "#010101",
-          "#dadada",
-          "#e1e1e1",
-          "#b0b0b0",
-          "#909090"
-        ],
-        "avg": [
-          84,
-          84,
-          84
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 104
     },
     {
       "id": "arena-50108000",
@@ -4219,7 +3731,7 @@
       "title": "Blurred checkerboard under embossed manifesto text (Saint Heron)",
       "spectrum": "inhabited",
       "spectrum_rank": 73,
-      "category": "Pattern & texture",
+      "category": "Op-art & moiré",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -4359,7 +3871,7 @@
       "title": "Grid of blue cut-out organic shapes (Matisse-style)",
       "spectrum": "inhabited",
       "spectrum_rank": 77,
-      "category": "Abstract & image-grids",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -4394,7 +3906,7 @@
       "title": "Rack of tissue-wrapped boxes with coloured ribbon stripes (Diptyque)",
       "spectrum": "inhabited",
       "spectrum_rank": 78,
-      "category": "Pattern & texture",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -4464,7 +3976,7 @@
       "title": "Comparison grid of dithering algorithms",
       "spectrum": "inhabited",
       "spectrum_rank": 80,
-      "category": "Pattern & texture",
+      "category": "Industrial & technical",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -4604,7 +4116,7 @@
       "title": "Floor-plan grid annotated with scattered red marks",
       "spectrum": "inhabited",
       "spectrum_rank": 84,
-      "category": "Abstract & image-grids",
+      "category": "Schools & offices",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -4674,7 +4186,7 @@
       "title": "Convention-centre floor plan — column grid and seating blocks",
       "spectrum": "inhabited",
       "spectrum_rank": 86,
-      "category": "Abstract & image-grids",
+      "category": "Schools & offices",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -4709,7 +4221,7 @@
       "title": "Glass car tower at night, cars stacked in a lit grid",
       "spectrum": "inhabited",
       "spectrum_rank": 87,
-      "category": "Transportation",
+      "category": "Streets & public space",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -4779,7 +4291,7 @@
       "title": "Pink-tinted structural grid of a building in section",
       "spectrum": "inhabited",
       "spectrum_rank": 89,
-      "category": "Abstract & image-grids",
+      "category": "Industrial & technical",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -4919,7 +4431,7 @@
       "title": "Draped car before a frosted glass-panel facade",
       "spectrum": "inhabited",
       "spectrum_rank": 93,
-      "category": "Transportation",
+      "category": "Streets & public space",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -4989,7 +4501,7 @@
       "title": "Aerial of a desert lot packed with thousands of cars",
       "spectrum": "inhabited",
       "spectrum_rank": 95,
-      "category": "Transportation",
+      "category": "Streets & public space",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -5199,7 +4711,7 @@
       "title": "Multilingual year-calendar poster with colour-block highlights",
       "spectrum": "inhabited",
       "spectrum_rank": 101,
-      "category": "Abstract & image-grids",
+      "category": "Schools & offices",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -5374,7 +4886,7 @@
       "title": "Aerial of a caravan park's rows of white mobile homes",
       "spectrum": "inhabited",
       "spectrum_rank": 106,
-      "category": "Transportation",
+      "category": "Streets & public space",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -5444,7 +4956,7 @@
       "title": "Suspended rig of hundreds of VR headsets in rows",
       "spectrum": "inhabited",
       "spectrum_rank": 108,
-      "category": "Abstract & image-grids",
+      "category": "Industrial & technical",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -5690,7 +5202,7 @@
       "title": "Anja Kaiser - Animated poster",
       "spectrum": "inhabited",
       "spectrum_rank": 119,
-      "category": "Abstract & image-grids",
+      "category": "Type & lettering",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -5830,7 +5342,7 @@
       "title": "kinetic typography",
       "spectrum": "inhabited",
       "spectrum_rank": 123,
-      "category": "Animation",
+      "category": "Type & lettering",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -5865,7 +5377,7 @@
       "title": "kinetic-typography-2",
       "spectrum": "inhabited",
       "spectrum_rank": 124,
-      "category": "Animation",
+      "category": "Type & lettering",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -5900,7 +5412,7 @@
       "title": "kinetic-typography-experiments",
       "spectrum": "inhabited",
       "spectrum_rank": 125,
-      "category": "Animation",
+      "category": "Type & lettering",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -5935,7 +5447,7 @@
       "title": "kinetic-typography-cube-1-",
       "spectrum": "inhabited",
       "spectrum_rank": 126,
-      "category": "Animation",
+      "category": "Type & lettering",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -5970,7 +5482,7 @@
       "title": "kinetic-typography-7",
       "spectrum": "inhabited",
       "spectrum_rank": 127,
-      "category": "Animation",
+      "category": "Type & lettering",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -6005,7 +5517,7 @@
       "title": "by Lucas Hesse ADC Conference Lecture Motion Design Kinetic Typography Typewriter Word Glitch Scroll",
       "spectrum": "inhabited",
       "spectrum_rank": 129,
-      "category": "Schools & offices",
+      "category": "Type & lettering",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -6034,76 +5546,6 @@
       "notes": "www.lucas-hesse.de",
       "user_edited": true,
       "order_index": 162
-    },
-    {
-      "id": "arena-999077",
-      "title": "Axel_Peemoeller_Confluence8-1920x1280",
-      "spectrum": "inhabited",
-      "spectrum_rank": 130,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/axel-peemoeller-confluence8-1920x1280.jpg",
-      "source_url": "https://www.are.na/block/999077",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/999077",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/999077/original_697da59b37690366fb89c21f2c59746e.jpg?1493517935?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#e5e5e5",
-        "palette": [
-          "#ececec",
-          "#cfcfcf",
-          "#b7b7b6",
-          "#c2c2bf",
-          "#e0e0df"
-        ],
-        "avg": [
-          229,
-          229,
-          229
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 163
-    },
-    {
-      "id": "arena-3187574",
-      "title": "Lara Coombs",
-      "spectrum": "inhabited",
-      "spectrum_rank": 131,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/lara-coombs.jpg",
-      "source_url": "https://storage.googleapis.com/lauracoombs/02_Palimpsest_Interior_02.jpg",
-      "source_label": "storage.googleapis.com",
-      "arena_block_url": "https://www.are.na/block/3187574",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/3187574/original_eca747c9f1318783151cc18e2b7225f4.jpg?1544531967?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#5f615f",
-        "palette": [
-          "#030303",
-          "#f9fbfb",
-          "#4c504d",
-          "#333633",
-          "#6c716f"
-        ],
-        "avg": [
-          95,
-          97,
-          95
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 164
     },
     {
       "id": "arena-1227408",
@@ -6217,7 +5659,7 @@
       "title": "Grainy split face in a black frame with staggered logotype",
       "spectrum": "inhabited",
       "spectrum_rank": 135,
-      "category": "Pattern & texture",
+      "category": "People & gatherings",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -6283,41 +5725,6 @@
       "order_index": 169
     },
     {
-      "id": "arena-1420920",
-      "title": "exposure7",
-      "spectrum": "inhabited",
-      "spectrum_rank": 137,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/exposure7.jpg",
-      "source_url": "https://www.are.na/block/1420920",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/1420920",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1420920/original_6eef9297de4fbc89664e80cbb41e216a.jpg?1510564972?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#461204",
-        "palette": [
-          "#090305",
-          "#f63900",
-          "#ac2a03",
-          "#d03000",
-          "#902404"
-        ],
-        "avg": [
-          70,
-          18,
-          4
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 170
-    },
-    {
       "id": "arena-3541299",
       "title": "bcb7465f-3a8e-4c89-a13a-54cafd448593",
       "spectrum": "inhabited",
@@ -6353,76 +5760,6 @@
       "order_index": 171
     },
     {
-      "id": "arena-1672386",
-      "title": "Swiss listings grid above a giant black numeral 7 (Norm)",
-      "spectrum": "inhabited",
-      "spectrum_rank": 139,
-      "category": "Type & lettering",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/grid-extra-1672386.png",
-      "source_url": "https://typejournal.ru/media/gallery/original/2017-05-11_14-30-24__39ba2f44-363d-11e7-aacf-dd54e5500986.png",
-      "source_label": "typejournal.ru",
-      "arena_block_url": "https://www.are.na/block/1672386",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1672386/original_5a7dda18d13d37f638ae8b536a56681c.png?1517325952?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#a09fa0",
-        "palette": [
-          "#f2f2f3",
-          "#231f20",
-          "#cfcfcf",
-          "#383435",
-          "#b6b5b6"
-        ],
-        "avg": [
-          160,
-          159,
-          160
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 172
-    },
-    {
-      "id": "arena-2353198",
-      "title": "Estúdio Margem",
-      "spectrum": "inhabited",
-      "spectrum_rank": 140,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/est-dio-margem.jpg",
-      "source_url": "https://www.are.na/block/2353198",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/2353198",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/2353198/original_072c78a8498515bbf4fa9ddd07ac3379.jpg?1529950201?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#575757",
-        "palette": [
-          "#0e0e0e",
-          "#2e2e2e",
-          "#fdfdfd",
-          "#4d4d4d",
-          "#6e6e6e"
-        ],
-        "avg": [
-          87,
-          87,
-          87
-        ]
-      },
-      "notes": "São Paulo\nhttp://estudiomargem.com.br/",
-      "user_edited": true,
-      "order_index": 173
-    },
-    {
       "id": "arena-3592487",
       "title": "Room whose parts are labelled — a printed contents list and index",
       "spectrum": "inhabited",
@@ -6456,76 +5793,6 @@
       "notes": "",
       "user_edited": true,
       "order_index": 174
-    },
-    {
-      "id": "arena-3457163",
-      "title": "alexis_mark_kadk_spacial-design_poster_1",
-      "spectrum": "inhabited",
-      "spectrum_rank": 142,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/alexis-mark-kadk-spacial-design-poster-1.jpg",
-      "source_url": "https://www.are.na/block/3457163",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/3457163",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/3457163/original_ac82d4ec5c1df45a77ae7022ecc61943.jpg?1548060534?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#2b1605",
-        "palette": [
-          "#010100",
-          "#733400",
-          "#552600",
-          "#2e1400",
-          "#441e00"
-        ],
-        "avg": [
-          43,
-          22,
-          5
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 175
-    },
-    {
-      "id": "arena-479530",
-      "title": "270afd26-fd68-45a1-ba2c-eae3aabde185_extra_large",
-      "spectrum": "inhabited",
-      "spectrum_rank": 143,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/270afd26-fd68-45a1-ba2c-eae3aabde185-extra-large.jpg",
-      "source_url": "https://lane-associates.s3.amazonaws.com/uploads/270afd26-fd68-45a1-ba2c-eae3aabde185_extra_large.jpg",
-      "source_label": "lane-associates.s3.amazonaws.com",
-      "arena_block_url": "https://www.are.na/block/479530",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/479530/original_6b839bb31d88242f3f75c638f4fbeeae.jpg?1447193246?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#b9b5ad",
-        "palette": [
-          "#ededec",
-          "#d3d3d3",
-          "#060504",
-          "#8e9395",
-          "#99a4a7"
-        ],
-        "avg": [
-          185,
-          181,
-          173
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 176
     },
     {
       "id": "arena-2815468",
@@ -6564,76 +5831,6 @@
       "order_index": 177
     },
     {
-      "id": "arena-2729959",
-      "title": "captura-de-tela-2018-08-15-s-22.29.53",
-      "spectrum": "inhabited",
-      "spectrum_rank": 145,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/captura-de-tela-2018-08-15-s-22-29-53.png",
-      "source_url": "http://www.facctory.org/",
-      "source_label": "facctory.org",
-      "arena_block_url": "https://www.are.na/block/2729959",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/2729959/original_c71f077e2a65c687ff2d77995baafbb0.png?1537320972?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#e97e84",
-        "palette": [
-          "#f7f5f5",
-          "#db0613",
-          "#eeaeb1",
-          "#e24952",
-          "#ea8f94"
-        ],
-        "avg": [
-          233,
-          126,
-          132
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 178
-    },
-    {
-      "id": "arena-2422702",
-      "title": "vivre-sa-vie-movie-title-10",
-      "spectrum": "inhabited",
-      "spectrum_rank": 146,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/vivre-sa-vie-movie-title-10.jpg",
-      "source_url": "https://www.are.na/block/2422702",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/2422702",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/2422702/original_221b888edcf489ffb110ffea81d9beee.jpg?1531446709?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#555555",
-        "palette": [
-          "#2e2e2e",
-          "#8c8c8c",
-          "#4b4b4b",
-          "#1b1b1b",
-          "#727272"
-        ],
-        "avg": [
-          85,
-          85,
-          85
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 179
-    },
-    {
       "id": "arena-1254577",
       "title": "-cooper.persona.co",
       "spectrum": "inhabited",
@@ -6667,41 +5864,6 @@
       "notes": "",
       "user_edited": true,
       "order_index": 180
-    },
-    {
-      "id": "arena-684031",
-      "title": "Poster pair — giant 7 and 2 numerals over photographs",
-      "spectrum": "inhabited",
-      "spectrum_rank": 148,
-      "category": "Type & lettering",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/grid-extra-684031.jpg",
-      "source_url": "http://blog.re-form.co/post/137747266379",
-      "source_label": "blog.re-form.co",
-      "arena_block_url": "https://www.are.na/block/684031",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/684031/original_540129575a36990e22166f177ddbea16.jpg?1471835326?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#b8b7b9",
-        "palette": [
-          "#b1b1b1",
-          "#e8e8ea",
-          "#cecece",
-          "#333037",
-          "#504d54"
-        ],
-        "avg": [
-          184,
-          183,
-          185
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 181
     },
     {
       "id": "arena-3613646",
@@ -6775,46 +5937,11 @@
       "order_index": 183
     },
     {
-      "id": "arena-903507",
-      "title": "jms_2601",
-      "spectrum": "inhabited",
-      "spectrum_rank": 151,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/jms-2601.jpg",
-      "source_url": "http://www.morganstudio.co.uk/img/projects/1920/f/jms_2601.jpg",
-      "source_label": "morganstudio.co.uk",
-      "arena_block_url": "https://www.are.na/block/903507",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/903507/original_ebabb23456efe9fc77920e8307258780.jpg?1488239491?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#f0f0f0",
-        "palette": [
-          "#f1f1f1",
-          "#d5d5d5",
-          "#e0dfe0",
-          "#bfbfbf",
-          "#e0e0df"
-        ],
-        "avg": [
-          240,
-          240,
-          240
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 184
-    },
-    {
       "id": "arena-1040049",
       "title": "Concrete-pump identity — a vertical stack of phone-number digits",
       "spectrum": "inhabited",
       "spectrum_rank": 152,
-      "category": "Abstract & image-grids",
+      "category": "Industrial & technical",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -6845,46 +5972,11 @@
       "order_index": 185
     },
     {
-      "id": "arena-1207298",
-      "title": "JuliusAsling_FotoskolanGoteborg-Gordel",
-      "spectrum": "inhabited",
-      "spectrum_rank": 153,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/juliusasling-fotoskolangoteborg-gordel.jpg",
-      "source_url": "https://www.are.na/block/1207298",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/1207298",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1207298/original_abb24f4a030d9f8e81f8b6cb56dc0844.jpg?1503320808?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#7b7a79",
-        "palette": [
-          "#080808",
-          "#fafafa",
-          "#515151",
-          "#313130",
-          "#707070"
-        ],
-        "avg": [
-          123,
-          122,
-          121
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 186
-    },
-    {
       "id": "arena-1893606",
       "title": "Green film poster — B&W photo of stacked ceramic bowls",
       "spectrum": "inhabited",
       "spectrum_rank": 154,
-      "category": "Abstract & image-grids",
+      "category": "Home & objects",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -6913,41 +6005,6 @@
       "notes": "",
       "user_edited": true,
       "order_index": 187
-    },
-    {
-      "id": "arena-1168182",
-      "title": "Tim_and_Tim_CarpeDiem_003-900x813",
-      "spectrum": "inhabited",
-      "spectrum_rank": 155,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/tim-and-tim-carpediem-003-900x813.jpg",
-      "source_url": "http://www.timandtim.com/#!/carpe-diem-records-2017-3",
-      "source_label": "timandtim.com",
-      "arena_block_url": "https://www.are.na/block/1168182",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1168182/original_dcbf62a9c898a18d4986a50e08bfbd86.jpg?1501797679?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#95969c",
-        "palette": [
-          "#eff0f2",
-          "#d1d2d5",
-          "#1c1c23",
-          "#17171d",
-          "#abacaf"
-        ],
-        "avg": [
-          149,
-          150,
-          156
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 188
     },
     {
       "id": "arena-2460234",
@@ -7057,111 +6114,6 @@
       "order_index": 191
     },
     {
-      "id": "arena-3623413",
-      "title": "arcademi_vrintskolsteren_01_over-tijd_poster",
-      "spectrum": "inhabited",
-      "spectrum_rank": 159,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/arcademi-vrintskolsteren-01-over-tijd-poster.jpg",
-      "source_url": "https://www.arcademi.com/wp-content/uploads/2016/07/Arcademi_VrintsKolsteren_01_Over-Tijd_Poster.jpg",
-      "source_label": "arcademi.com",
-      "arena_block_url": "https://www.are.na/block/3623413",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/3623413/original_055429b05aca9382da902dc279456b75.jpg?1549937280?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#767676",
-        "palette": [
-          "#191919",
-          "#8d8d8d",
-          "#f2f2f2",
-          "#a3a3a3",
-          "#d1d1d1"
-        ],
-        "avg": [
-          118,
-          118,
-          118
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 192
-    },
-    {
-      "id": "arena-3622206",
-      "title": "Conquista",
-      "spectrum": "inhabited",
-      "spectrum_rank": 160,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/conquista.jpg",
-      "source_url": "http://visualjournal.it/wp-content/uploads/2019/01/17/conquista-club/3.jpg",
-      "source_label": "visualjournal.it",
-      "arena_block_url": "https://www.are.na/block/3622206",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/3622206/original_b9638784d5ac1d14533d34110db108e3.jpg?1549926704?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#867d77",
-        "palette": [
-          "#ececec",
-          "#050507",
-          "#d3d2d2",
-          "#6f4f34",
-          "#757474"
-        ],
-        "avg": [
-          134,
-          125,
-          119
-        ]
-      },
-      "notes": "Jose Avila : Conquista",
-      "user_edited": true,
-      "order_index": 193
-    },
-    {
-      "id": "arena-1245715",
-      "title": "DanielCarlsten-NittyGritty-Packaging01",
-      "spectrum": "inhabited",
-      "spectrum_rank": 161,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/danielcarlsten-nittygritty-packaging01.jpg",
-      "source_url": "http://danielcarlsten.com/nitty-gritty",
-      "source_label": "danielcarlsten.com",
-      "arena_block_url": "https://www.are.na/block/1245715",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1245715/original_c3995550522481076211eb5ef68da15b.jpg?1504864864?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#d1d1d1",
-        "palette": [
-          "#d5d4d4",
-          "#e5e5e5",
-          "#b5b3b3",
-          "#959391",
-          "#e0dedf"
-        ],
-        "avg": [
-          209,
-          209,
-          209
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 194
-    },
-    {
       "id": "arena-1279491",
       "title": "artboard_0-60",
       "spectrum": "inhabited",
@@ -7263,146 +6215,6 @@
       "user_edited": true,
       "needs_name": true,
       "order_index": 197
-    },
-    {
-      "id": "arena-793399",
-      "title": "cover-folio-1",
-      "spectrum": "inhabited",
-      "spectrum_rank": 165,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/cover-folio-1.png",
-      "source_url": "http://www.laurajouan.fr/index.htm",
-      "source_label": "laurajouan.fr",
-      "arena_block_url": "https://www.are.na/block/793399",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/793399/original_2faeeac95d3a1b907af0402349ba6ac7.png?1481007028?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#8d8c88",
-        "palette": [
-          "#f5f4ed",
-          "#020202",
-          "#959590",
-          "#adada8",
-          "#71706d"
-        ],
-        "avg": [
-          141,
-          140,
-          136
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 198
-    },
-    {
-      "id": "arena-115687",
-      "title": "norm_poster_1.jpg_1000x1000",
-      "spectrum": "inhabited",
-      "spectrum_rank": 166,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/norm-poster-1-jpg-1000x1000.jpg",
-      "source_url": "https://www.are.na/block/115687",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/115687",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/115687/original_35c7402463ca12a4f1a527b48eb2e306.jpg?1370372842?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#bebebe",
-        "palette": [
-          "#ebebeb",
-          "#939393",
-          "#a9a9a9",
-          "#2d2d2d",
-          "#505050"
-        ],
-        "avg": [
-          190,
-          190,
-          190
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 199
-    },
-    {
-      "id": "arena-3622392",
-      "title": "Australian Film Television and Radio School",
-      "spectrum": "inhabited",
-      "spectrum_rank": 167,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/australian-film-television-and-radio-school.jpg",
-      "source_url": "http://visualjournal.it/wp-content/uploads/2018/08/10/aftrs/1a.jpg",
-      "source_label": "visualjournal.it",
-      "arena_block_url": "https://www.are.na/block/3622392",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/3622392/original_716b3d651335cc9ae39f20c093a7939f.jpg?1549928134?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#febdbe",
-        "palette": [
-          "#fffcfc",
-          "#fe272b",
-          "#fccfd0",
-          "#fe4f52",
-          "#fdb0b1"
-        ],
-        "avg": [
-          254,
-          189,
-          190
-        ]
-      },
-      "notes": "M35 : Australian Film Television and Radio School",
-      "user_edited": true,
-      "order_index": 200
-    },
-    {
-      "id": "arena-3678169",
-      "title": "vrints-kolsteren-onkruid-postcards-1600x1067",
-      "spectrum": "inhabited",
-      "spectrum_rank": 168,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/vrints-kolsteren-onkruid-postcards-1600x1067.jpg",
-      "source_url": "https://www.vrints-kolsteren.com/thumbs/projects/onkruid/vrints-kolsteren-onkruid-postcards-1600x1067.jpg",
-      "source_label": "vrints-kolsteren.com",
-      "arena_block_url": "https://www.are.na/block/3678169",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/3678169/original_ed8cba5b472cf30eacdb8ef399022d67.jpg?1550565724?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#bcb0ad",
-        "palette": [
-          "#c6c6c6",
-          "#b6b3b2",
-          "#fa4e15",
-          "#979591",
-          "#ac3710"
-        ],
-        "avg": [
-          188,
-          176,
-          173
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 201
     },
     {
       "id": "arena-20613662",
@@ -8718,7 +7530,7 @@
       "title": "'HUMAN' repeated in a grid, letters tumbling out of line",
       "spectrum": "pressure",
       "spectrum_rank": 177,
-      "category": "Animation",
+      "category": "Type & lettering",
       "on_arena_board": true,
       "arena_channel": "grids-irl-order-to-chaos",
       "source": "arena",
@@ -9522,41 +8334,6 @@
       "order_index": 261
     },
     {
-      "id": "arena-892298",
-      "title": "Lundgren+Lindqvist",
-      "spectrum": "pressure",
-      "spectrum_rank": 200,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/lundgren-lindqvist.jpg",
-      "source_url": "https://www.behance.net/gallery/49126849/OO-Brewing-AW-2016",
-      "source_label": "behance.net",
-      "arena_block_url": "https://www.are.na/block/892298",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/892298/original_ed99a42976eb904c83e0ede532fdf3b9.jpg?1487675942?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#5a5a5a",
-        "palette": [
-          "#010101",
-          "#e8e8e8",
-          "#d5d5d5",
-          "#474848",
-          "#b4b6b5"
-        ],
-        "avg": [
-          90,
-          90,
-          90
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 262
-    },
-    {
       "id": "arena-2662521",
       "title": "'LIFE AFTER DEATH' — slab letters caged in a grid on grain",
       "spectrum": "pressure",
@@ -9596,7 +8373,7 @@
       "title": "White fire extinguisher — a grid of numbered instruction pictograms",
       "spectrum": "pressure",
       "spectrum_rank": 202,
-      "category": "Home & objects",
+      "category": "Industrial & technical",
       "on_arena_board": true,
       "arena_channel": "big-grid-energy",
       "source": "arena",
@@ -9625,76 +8402,6 @@
       "notes": "",
       "user_edited": true,
       "order_index": 264
-    },
-    {
-      "id": "arena-1192081",
-      "title": "xlarge_whitney_2013redesign_museumguide",
-      "spectrum": "pressure",
-      "spectrum_rank": 203,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/xlarge-whitney-2013redesign-museumguide.jpg",
-      "source_url": "http://api.whitney.org/uploads/image/file/466440/xlarge_whitney_2013redesign_museumguide.jpg",
-      "source_label": "api.whitney.org",
-      "arena_block_url": "https://www.are.na/block/1192081",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1192081/original_3c06b3a3fbefa6cff89814df231631a0.jpg?1502562339?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#c5c4c7",
-        "palette": [
-          "#cccccf",
-          "#ebecef",
-          "#afb0b3",
-          "#8d8e8e",
-          "#757675"
-        ],
-        "avg": [
-          197,
-          196,
-          199
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 265
-    },
-    {
-      "id": "arena-1192082",
-      "title": "xlarge_whitney_2013redesign_admissiontickets",
-      "spectrum": "pressure",
-      "spectrum_rank": 204,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/xlarge-whitney-2013redesign-admissiontickets.jpg",
-      "source_url": "http://api.whitney.org/uploads/image/file/466441/xlarge_whitney_2013redesign_admissiontickets.jpg",
-      "source_label": "api.whitney.org",
-      "arena_block_url": "https://www.are.na/block/1192082",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1192082/original_590f92dea5abc3d5362c592ffb36e389.jpg?1502562346?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#dbdcdd",
-        "palette": [
-          "#d2d3d4",
-          "#eaebec",
-          "#d9e9eb",
-          "#ead9da",
-          "#b6b8b7"
-        ],
-        "avg": [
-          219,
-          220,
-          221
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 266
     },
     {
       "id": "arena-2248177",
@@ -9733,41 +8440,6 @@
       "order_index": 267
     },
     {
-      "id": "arena-1583005",
-      "title": "david-j",
-      "spectrum": "pressure",
-      "spectrum_rank": 206,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/david-j.jpg",
-      "source_url": "https://www.google.fr/search?q=raygun+magazine&client=safari&rls=en&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj_yMir783YAhUkK8AKHbzgAR8Q_AUICigB&biw=1369&bih=1379#imgrc=WCC6N1wwZUzaaM:",
-      "source_label": "google.fr",
-      "arena_block_url": "https://www.are.na/block/1583005",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/1583005/original_bbafaaa03f1bda519a0586106c5c7b34.jpg?1515607101?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#cdccce",
-        "palette": [
-          "#d4d4d6",
-          "#dedee0",
-          "#e0dfe1",
-          "#929093",
-          "#6f6d6e"
-        ],
-        "avg": [
-          205,
-          204,
-          206
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 268
-    },
-    {
       "id": "arena-2507846",
       "title": "Animated grid study (Are.na)",
       "spectrum": "pressure",
@@ -9798,111 +8470,6 @@
       "user_edited": true,
       "needs_name": true,
       "order_index": 269
-    },
-    {
-      "id": "arena-3712481",
-      "title": "'saison' banner — grid of line motifs mixed with still-life photos",
-      "spectrum": "pressure",
-      "spectrum_rank": 208,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/grid-extra-3712481.jpg",
-      "source_url": "https://www.are.na/block/3712481",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/3712481",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/3712481/original_145b19eaab22587e548d48c6153ab8a0.jpg?1550897910?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#c2c1bf",
-        "palette": [
-          "#b7b7b4",
-          "#cfcecc",
-          "#e9e9e9",
-          "#949492",
-          "#c3c2bd"
-        ],
-        "avg": [
-          194,
-          193,
-          191
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 270
-    },
-    {
-      "id": "arena-2776296",
-      "title": "pedroajo-nofuture-graphicdesign-itsnicethat-03.jpg?1537785989",
-      "spectrum": "pressure",
-      "spectrum_rank": 209,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/pedroajo-nofuture-graphicdesign-itsnicethat-03-jpg-1537785.jpg",
-      "source_url": "https://www.itsnicethat.com/articles/pedro-ajo-graphic-design-publication-240918",
-      "source_label": "itsnicethat.com",
-      "arena_block_url": "https://www.are.na/block/2776296",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/2776296/original_af3cf8e06821994139ea9fef579806b2.jpg?1537988950?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#5b5b5b",
-        "palette": [
-          "#010101",
-          "#cfcfcf",
-          "#6e6e6e",
-          "#f0f0f0",
-          "#8b8b8b"
-        ],
-        "avg": [
-          91,
-          91,
-          91
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 271
-    },
-    {
-      "id": "arena-2253841",
-      "title": "A-series paper-size diagram — nested rectangles with the size table",
-      "spectrum": "pressure",
-      "spectrum_rank": 210,
-      "category": "Abstract & image-grids",
-      "on_arena_board": true,
-      "arena_channel": "big-grid-energy",
-      "source": "arena",
-      "status": "collected",
-      "file": "images/grid-extra-2253841.jpg",
-      "source_url": "https://www.are.na/block/2253841",
-      "source_label": "Are.na",
-      "arena_block_url": "https://www.are.na/block/2253841",
-      "arena_image_url": "https://d2w9rnfcy7mm78.cloudfront.net/2253841/original_a150e152d318eed8b9631abbbed178cf.jpg?1527883304?bc=1",
-      "archive_links": [],
-      "color": {
-        "hex": "#e8e7e5",
-        "palette": [
-          "#ecebe9",
-          "#dad9d8",
-          "#e1e1df",
-          "#e0dfdd",
-          "#dedfe0"
-        ],
-        "avg": [
-          232,
-          231,
-          229
-        ]
-      },
-      "notes": "",
-      "user_edited": true,
-      "order_index": 272
     },
     {
       "id": "arena-3733631",
@@ -10054,7 +8621,7 @@
       "needs_name": false,
       "spectrum": "pressure",
       "spectrum_rank": 215,
-      "category": "Home & objects",
+      "category": "Nature, farming & landscape",
       "on_arena_board": true,
       "arena_channel": "moire-gyhn21oh4oo",
       "source": "arena",
@@ -10738,7 +9305,7 @@
       "needs_name": false,
       "spectrum": "pressure",
       "spectrum_rank": 234,
-      "category": "Op-art & moiré",
+      "category": "Pattern & texture",
       "on_arena_board": true,
       "arena_channel": "i-can-t-believe-it-s-not-gif",
       "source": "arena",
@@ -10846,7 +9413,7 @@
       "needs_name": false,
       "spectrum": "pressure",
       "spectrum_rank": 237,
-      "category": "Pattern & texture",
+      "category": "Op-art & moiré",
       "on_arena_board": true,
       "arena_channel": "i-can-t-believe-it-s-not-gif",
       "source": "arena",
@@ -10916,7 +9483,7 @@
       "id": "arena-50107966",
       "title": "",
       "needs_name": true,
-      "spectrum": null,
+      "spectrum": "inhabited",
       "spectrum_rank": null,
       "category": "Abstract & image-grids",
       "on_arena_board": true,

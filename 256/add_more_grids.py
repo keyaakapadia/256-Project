@@ -18,15 +18,11 @@ MF = os.path.join(ROOT, "data", "collection.json")
 PULL = os.path.join(ROOT, "data", "arena_pull")
 UA = {"User-Agent": "256-thesis-cms/1.0 (kapak530@newschool.edu)"}
 
-# public channels — op-art, animated grids, dithering, generative pattern
+# public channels — op-art, generative pattern, animated grids (well-labelled ones)
 CHANNELS = [
-    "i-can-t-believe-it-s-not-gif",
     "op-art-m_f8v8_zgb4",
-    "effects-dithering-halftone",
-    "barn-quilts-but-with-computers",
+    "i-can-t-believe-it-s-not-gif",
     "patterns-w61q_k86gr0",
-    "op-art-typography",
-    "pattern-x-x-x-x-x-grid",
 ]
 CATS = ["Streets & public space", "Transportation", "Schools & offices", "Stores & commerce",
         "Food & kitchens", "Home & objects", "People & gatherings", "Sports & recreation",
