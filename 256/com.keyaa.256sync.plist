@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Runs sync.py every 30 min so new Are.na blocks land in the archive.
+     Install:   cp com.keyaa.256sync.plist ~/Library/LaunchAgents/
+                launchctl load ~/Library/LaunchAgents/com.keyaa.256sync.plist
+     Stop:      launchctl unload ~/Library/LaunchAgents/com.keyaa.256sync.plist
+     Log:       data/sync.log  -->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>            <string>com.keyaa.256sync</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>/Users/keyaa/Desktop/Senior Year/Thesis/256 Project/256/sync.py</string>
+    <string>--quiet</string>
+  </array>
+  <key>StartInterval</key>    <integer>1800</integer>
+  <key>RunAtLoad</key>        <true/>
+  <key>WorkingDirectory</key> <string>/Users/keyaa/Desktop/Senior Year/Thesis/256 Project/256</string>
+  <key>StandardErrorPath</key><string>/Users/keyaa/Desktop/Senior Year/Thesis/256 Project/256/data/sync.err</string>
+</dict>
+</plist>

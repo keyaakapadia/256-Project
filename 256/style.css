@@ -52,7 +52,7 @@
 
   --radius:0px;
   --maxw:1180px;
-  --pad:clamp(16px,3vw,34px);
+  --pad:clamp(12px,2vw,22px);   /* tighter side margins, like the Thesis Journal */
 
   --font:"Neue Montreal","Neue Haas Grotesk Text Pro","Inter",
          "Helvetica Neue",Arial,system-ui,sans-serif;
