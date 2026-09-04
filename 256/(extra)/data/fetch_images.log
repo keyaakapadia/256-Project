@@ -1,0 +1,459 @@
+20:38:54 === run: 6 item(s); replace_weak=False ===
+20:39:00 [1/6] Cars perfectly aligned in a dealership  ✓ [5] BY-NC-SA 2.0 81KB  cars-perfectly-aligned-in-a-dealership.jpg
+20:39:04 [2/6] Tollbooths  ✓ [4] CC BY-SA 4.0 632KB  tollbooths.jpg
+20:39:06 [3/6] Subway-platform tiles  ✓ [7] CC BY-SA 4.0 618KB  subway-platform-tiles.jpg
+20:39:11 [4/6] Apartment balconies  ✓ [4] CC0 902KB  apartment-balconies.jpg
+20:39:14 [5/6] City blocks seen from above  ✓ [7] CC0 1087KB  city-blocks-seen-from-above.jpg
+20:39:17 [6/6] Hardware-organizer drawers  ✓ [3] BY 2.0 65KB  hardware-organizer-drawers.jpg
+20:39:18 === done: +6, 0 unmatched. 357/466 collected ===
+20:39:45 === run: 398 item(s); replace_weak=True ===
+20:39:46 [1/398] Empty parking spaces  ✓ [7] Public domain 380KB  empty-parking-spaces.jpg
+20:39:49 [2/398] Parking-garage columns  ✓ [4] CC BY-SA 2.0 684KB  parking-garage-columns.jpg
+20:39:52 [3/398] Crosswalk stripes  ✓ [6] BY-NC-SA 2.0 248KB  crosswalk-stripes.jpg
+20:40:00 [4/398] Highway lanes  ✓ [4] CC0 1158KB  highway-lanes.jpg
+20:40:04 [5/398] Airport runways  ✓ [7] CC BY 4.0 657KB  airport-runways.jpg
+20:40:06 [6/398] Tollbooths  ✓ [4] CC BY-SA 4.0 632KB  tollbooths-2.jpg
+20:40:12 [7/398] Bicycle docking stations  ✓ [4] CC BY-SA 3.0 742KB  bicycle-docking-stations.jpg
+20:40:16 [8/398] Bike racks  ✓ [6] BY-NC-SA 2.0 103KB  bike-racks.jpg
+20:40:20 [9/398] Marina slips  ✓ [4] CC BY 2.0 824KB  marina-slips.jpg
+20:40:24 [10/398] Railway tracks and sleepers  ✓ [7] CC BY-SA 4.0 2940KB  railway-tracks-and-sleepers.jpg
+20:40:27 [11/398] Train-carriage windows  ✓ [7] CC BY-SA 4.0 882KB  train-carriage-windows.jpg
+20:40:29 [12/398] Subway-platform tiles  ✓ [7] CC BY-SA 4.0 618KB  subway-platform-tiles-2.jpg
+20:40:34 [13/398] Airport security lanes  ✓ [5] CC0 1.0 150KB  airport-security-lanes.jpg
+20:40:37 [14/398] Baggage-claim carts  ✓ [4] Public domain 521KB  baggage-claim-carts.jpg
+20:40:39 [15/398] Bus-depot parking bays  ✓ [4] CC BY-SA 4.0 502KB  bus-depot-parking-bays.jpg
+20:40:44 [16/398] Shipping containers  ✓ [7] CC BY-SA 4.0 517KB  shipping-containers.jpg
+20:40:46 [17/398] Warehouse pallets  ✓ [7] CC BY 2.0 1293KB  warehouse-pallets.jpg
+20:40:50 [18/398] Sidewalk paving slabs  ✓ [7] CC BY 4.0 1555KB  sidewalk-paving-slabs.jpg
+20:40:54 [19/398] Brick walls  ✓ [7] CC0 1.0 157KB  brick-walls.jpg
+20:40:58 [20/398] Cinder-block walls  ✓ [7] CC0 1012KB  cinder-block-walls.jpg
+20:41:02 [21/398] Cobblestone streets  ✓ [7] CC0 1.0 910KB  cobblestone-streets.jpg
+20:41:05 [22/398] Scaffolding  ✓ [4] CC BY-SA 4.0 603KB  scaffolding.jpg
+20:41:08 [23/398] Construction-site rebar  ✓ [7] CC BY-SA 4.0 1125KB  construction-site-rebar.jpg
+20:41:11 [24/398] Chain-link fences  ✓ [7] CC BY-SA 4.0 558KB  chain-link-fences.jpg
+20:41:16 [25/398] Metal security fences  ✓ [7] CC0 1.0 442KB  metal-security-fences.jpg
+20:41:19 [26/398] Window screens  ✓ [6] BY-NC 2.0 189KB  window-screens.jpg
+20:41:23 [27/398] Building facades  ✓ [7] CC0 1.0 1565KB  building-facades.jpg
+20:41:25 [28/398] Apartment balconies  ✓ [4] CC0 902KB  apartment-balconies-2.jpg
+20:41:28 [29/398] Fire escapes  ✓ [6] BY-SA 2.0 525KB  fire-escapes.jpg
+20:41:33 [30/398] Glass office partitions  ✓ [4] CC BY 4.0 861KB  glass-office-partitions.jpg
+20:41:36 [31/398] Glass-block walls  ✓ [7] CC BY-SA 4.0 901KB  glass-block-walls.jpg
+20:41:39 [32/398] Curtain-wall buildings  ✓ [6] BY-NC-SA 2.0 125KB  curtain-wall-buildings.jpg
+20:41:42 [33/398] Architectural floor plans  ✓ [6] BY-NC-SA 2.0 268KB  architectural-floor-plans.jpg
+20:41:45 [34/398] Blueprints  ✓ [4] CC0 1.0 545KB  blueprints.jpg
+20:41:49 [35/398] Street maps  ✓ [6] CC0 1.0 23KB  street-maps.jpg
+20:41:51 [36/398] City blocks seen from above  ✓ [7] CC0 1087KB  city-blocks-seen-from-above-2.jpg
+20:41:55 [37/398] Apartment mailboxes  ✓ [5] CC0 1.0 207KB  apartment-mailboxes.jpg
+20:41:58 [38/398] Safety-deposit boxes  ✓ [4] CC BY-SA 4.0 1078KB  safety-deposit-boxes.jpg
+20:42:03 [39/398] Cemetery plots  ✓ [4] CC BY-SA 4.0 950KB  cemetery-plots.jpg
+20:42:05 [40/398] Rows of headstones  ✓ [7] CC BY 3.0 610KB  rows-of-headstones.jpg
+20:42:09 [41/398] Solar-panel fields  ✓ [4] CC BY-SA 4.0 450KB  solar-panel-fields.jpg
+20:42:13 [42/398] Electrical substations  ✓ [7] CC BY-SA 4.0 942KB  electrical-substations.jpg
+20:42:15 [43/398] Server racks  ✓ [5] CC0 1.0 370KB  server-racks.jpg
+20:42:19 [44/398] Circuit boards  ✓ [6] BY-NC-SA 2.0 282KB  circuit-boards.jpg
+20:42:24 [45/398] LED panels  ✓ [7] CC BY-SA 4.0 661KB  led-panels.jpg
+20:42:27 [46/398] Factory assembly lines  ✓ [7] CC BY 3.0 627KB  factory-assembly-lines.jpg
+20:42:30 [47/398] Conveyor belts  ✓ [4] CC BY-SA 4.0 1376KB  conveyor-belts.jpg
+20:42:33 [48/398] Warehouse shelving  ! unsupported operand type(s) for +: 'NoneType' and 'str'
+20:42:34 [49/398] Tool pegboards  ✓ [7] CC BY-SA 3.0 192KB  tool-pegboards.jpg
+20:42:37 [50/398] Rows of lockers  ✓ [7] CC BY-SA 2.0 730KB  rows-of-lockers.jpg
+20:42:39 [51/398] School cubbies  ✓ [4] Public domain 305KB  school-cubbies.jpg
+20:42:42 [52/398] Classroom desks before class  ✓ [4] Public domain 621KB  classroom-desks-before-class.jpg
+20:42:44 [53/398] Empty lecture-hall seats  ✓ [4] Public Domain 477KB  empty-lecture-hall-seats.jpg
+20:42:47 [54/398] Library bookshelves  ✓ [7] CC BY-SA 4.0 617KB  library-bookshelves.jpg
+20:42:51 [55/398] Library tables  ✓ [6] CC0 1.0 317KB  library-tables.jpg
+20:42:54 [56/398] Office cubicles  ✓ [4] CC BY-SA 2.0 731KB  office-cubicles.jpg
+20:42:57 [57/398] Computer-lab stations  ✓ [6] PDM 1.0 253KB  computer-lab-stations.jpg
+20:43:00 [58/398] Filing cabinets  ✓ [4] CC BY-SA 4.0 506KB  filing-cabinets.jpg
+20:43:03 [59/398] Archive boxes  ✓ [7] CC BY-SA 2.5 660KB  archive-boxes.jpg
+20:43:06 [60/398] Museum-storage drawers  ✓ [4] CC0 929KB  museum-storage-drawers.jpg
+20:43:08 [61/398] Mailroom pigeonholes  — no match
+20:43:11 [62/398] Ceiling panels  ✓ [7] Public domain 1650KB  ceiling-panels.jpg
+20:43:13 [63/398] Fluorescent ceiling lights  ✓ [4] CC BY-SA 4.0 335KB  fluorescent-ceiling-lights.jpg
+20:43:16 [64/398] Window blinds  ✓ [8] CC0 1.0 304KB  window-blinds.jpg
+20:43:19 [65/398] Keyboard keys  ✓ [6] BY-NC 2.0 150KB  keyboard-keys.jpg
+20:43:22 [66/398] Numerical keypads  ✓ [4] Public domain 761KB  numerical-keypads.jpg
+20:43:24 [67/398] Elevator buttons  ✓ [4] CC0 1.0 49KB  elevator-buttons.jpg
+20:43:26 [68/398] Apartment intercom buttons  ✓ [4] CC BY-SA 4.0 1596KB  apartment-intercom-buttons.jpg
+20:43:29 [69/398] Calendar pages  ✓ [5] CC0 1.0 307KB  calendar-pages.jpg
+20:43:34 [70/398] Spreadsheet cells  ✓ [7] CC0 995KB  spreadsheet-cells.jpg
+20:43:36 [71/398] Graph paper  ✓ [6] BY 2.0 151KB  graph-paper.jpg
+20:43:39 [72/398] Contact sheets  ✓ [5] CC0 1.0 264KB  contact-sheets.jpg
+20:43:42 [73/398] Film strips  ✓ [4] CC BY-SA 4.0 257KB  film-strips.jpg
+20:43:45 [74/398] QR codes  ✓ [4] CC0 1154KB  qr-codes.jpg
+20:43:47 [75/398] Barcodes  ✓ [7] CC BY-SA 4.0 499KB  barcodes.jpg
+20:43:50 [76/398] Color-checker cards  ✓ [7] CC0 1.0 456KB  color-checker-cards.jpg
+20:43:53 [77/398] Watercolor swatch charts  — no match
+20:43:56 [78/398] Paint-swatch walls  ✓ [6] BY 2.0 348KB  paint-swatch-walls.jpg
+20:43:59 [79/398] Pantone charts  ✓ [4] CC BY-SA 4.0 659KB  pantone-charts.jpg
+20:44:02 [80/398] Typeface specimen charts  — no match
+20:44:04 [81/398] Transit-design specification sheets  — no match
+20:44:07 [82/398] Registration and measurement sheets  ✓ [4] CC BY 2.0 395KB  registration-and-measurement-sheets.jpg
+20:44:09 [83/398] Rows of keys organized by type  ✓ [6] BY-NC 2.0 150KB  rows-of-keys-organized-by-type.jpg
+20:44:13 [84/398] Cassette tapes organized in rows  — no match
+20:44:15 [85/398] Camera typology collections  ✓ [4] CC0 485KB  camera-typology-collections.jpg
+20:44:18 [86/398] Photo archives arranged as thumbnails  ✓ [6] BY 2.0 348KB  photo-archives-arranged-as-thumbnails.jpg
+20:44:21 [87/398] Supermarket aisles  ✓ [4] CC BY-SA 4.0 830KB  supermarket-aisles.jpg
+20:44:23 [88/398] Canned goods on shelves  ✓ [4] CC BY-SA 4.0 685KB  canned-goods-on-shelves.jpg
+20:44:26 [89/398] Bottled drinks in refrigerators  ✓ [7] CC BY 2.0 645KB  bottled-drinks-in-refrigerators.jpg
+20:44:29 [90/398] Trader Joe's refrigerator doors  ✓ [3] CC0 1.0 179KB  trader-joe-s-refrigerator-doors.jpg
+20:44:31 [91/398] Refrigerator-door handles  ✓ [4] Public domain 1080KB  refrigerator-door-handles.jpg
+20:44:34 [92/398] Freezer doors across an aisle  ✓ [3] BY 2.0 182KB  freezer-doors-across-an-aisle.jpg
+20:44:37 [93/398] Products aligned behind refrigerator glass  ✓ [3] CC0 1.0 179KB  products-aligned-behind-refrigerator-glass.jpg
+20:44:43 [94/398] Shelf dividers  ✓ [4] CC0 1192KB  shelf-dividers.jpg
+20:44:45 [95/398] Price labels beneath products  ✓ [4] Public domain 626KB  price-labels-beneath-products.jpg
+20:44:50 [96/398] Milk cartons  ✓ [4] CC BY-SA 2.0 339KB  milk-cartons.jpg
+20:44:54 [97/398] Yogurt containers  ✓ [4] Public domain 826KB  yogurt-containers.jpg
+20:44:56 [98/398] Egg cartons  ✓ [7] CC0 1.0 806KB  egg-cartons.jpg
+20:44:59 [99/398] Vending-machine compartments  ✓ [7] CC BY 2.0 611KB  vending-machine-compartments.jpg
+20:45:01 [100/398] Pharmacy shelves  ✓ [4] CC BY-SA 4.0 635KB  pharmacy-shelves.jpg
+20:45:04 [101/398] Pill blister packs  ✓ [5] CC0 1.0 224KB  pill-blister-packs.jpg
+20:45:07 [102/398] Bakery trays  ✓ [5] CC0 1.0 219KB  bakery-trays.jpg
+20:45:10 [103/398] Muffin tins  ✓ [5] CC0 1.0 471KB  muffin-tins.jpg
+20:45:13 [104/398] Ice-cube trays  ✓ [6] BY-NC-SA 2.0 51KB  ice-cube-trays.jpg
+20:45:16 [105/398] Chocolate bars  ✓ [4] CC BY-SA 4.0 194KB  chocolate-bars.jpg
+20:45:19 [106/398] Bento boxes  ✓ [4] CC BY 2.0 593KB  bento-boxes.jpg
+20:45:21 [107/398] Sushi trays  ✓ [4] CC0 1.0 205KB  sushi-trays.jpg
+20:47:20 === run: 362 item(s); replace_weak=True ===
+20:47:21 [1/362] Empty parking spaces  ✓ [7] Public domain 380KB  empty-parking-spaces-2.jpg
+20:47:23 [2/362] Parking-garage columns  ✓ [4] CC BY-SA 2.0 684KB  parking-garage-columns-2.jpg
+20:47:26 [3/362] Highway lanes  ✓ [4] CC0 605KB  highway-lanes-2.jpg
+20:47:28 [4/362] Airport runways  ✓ [7] CC BY 4.0 657KB  airport-runways-2.jpg
+20:47:30 [5/362] Tollbooths  ✓ [4] CC BY-SA 4.0 632KB  tollbooths.jpg
+20:47:32 [6/362] Bicycle docking stations  ✓ [4] CC BY-SA 3.0 742KB  bicycle-docking-stations-2.jpg
+20:47:34 [7/362] Marina slips  ✓ [4] CC BY 2.0 824KB  marina-slips-2.jpg
+20:47:37 [8/362] Railway tracks and sleepers  ✓ [7] CC BY-SA 4.0 2940KB  railway-tracks-and-sleepers-2.jpg
+20:47:39 [9/362] Train-carriage windows  ✓ [7] CC BY-SA 4.0 882KB  train-carriage-windows-2.jpg
+20:50:47 === run: 306 item(s); replace_weak=False ===
+20:50:47 [1/306] Warehouse shelving  ✓ [6] BY 2.0 145KB  warehouse-shelving.jpg
+20:50:49 [2/306] Mailroom pigeonholes  — no match
+20:50:51 [3/306] Watercolor swatch charts  — no match
+20:50:53 [4/306] Typeface specimen charts  — no match
+20:50:55 [5/306] Transit-design specification sheets  — no match
+20:50:56 [6/306] Registration and measurement sheets  ✓ [4] CC BY 2.0 395KB  registration-and-measurement-sheets.jpg
+20:50:58 [7/306] Rows of keys organized by type  ✓ [6] BY-NC 2.0 150KB  rows-of-keys-organized-by-type.jpg
+20:51:01 [8/306] Cassette tapes organized in rows  — no match
+20:51:02 [9/306] Camera typology collections  ✓ [4] CC0 485KB  camera-typology-collections.jpg
+20:51:04 [10/306] Price labels beneath products  ✓ [4] Public domain 626KB  price-labels-beneath-products.jpg
+20:51:07 [11/306] Milk cartons  ✓ [4] CC BY-SA 2.0 339KB  milk-cartons.jpg
+20:51:09 [12/306] Yogurt containers  ✓ [4] Public domain 826KB  yogurt-containers.jpg
+20:51:11 [13/306] Chocolate bars  ✓ [4] CC BY-SA 4.0 194KB  chocolate-bars.jpg
+20:51:13 [14/306] Bento boxes  ✓ [4] CC BY 2.0 593KB  bento-boxes.jpg
+20:51:16 [15/306] Sushi trays  ✓ [4] CC0 1.0 205KB  sushi-trays.jpg
+20:51:18 [16/306] Wine racks  ✓ [4] CC BY 2.0 661KB  wine-racks.jpg
+20:51:23 [17/306] Spice jars  ✓ [5] CC0 1.0 211KB  spice-jars.jpg
+20:51:25 [18/306] Cutlery organizers  ✓ [4] CC BY-SA 4.0 403KB  cutlery-organizers.jpg
+20:51:30 [19/306] Dish-drying racks  ✓ [4] CC BY-SA 4.0 473KB  dish-drying-racks.jpg
+20:51:34 [20/306] Oven racks  ✓ [4] Public domain 387KB  oven-racks.jpg
+20:51:37 [21/306] Cooling racks  ✓ [4] CC0 1149KB  cooling-racks.jpg
+20:51:40 [22/306] Kitchen tiles  ✓ [7] CC BY 3.0 972KB  kitchen-tiles.jpg
+20:51:44 [23/306] Bathroom tiles  ✓ [7] CC0 450KB  bathroom-tiles.jpg
+20:51:49 [24/306] Parquet floors  ✓ [6] BY 2.0 176KB  parquet-floors.jpg
+20:51:53 [25/306] Tatami mats  ✓ [8] CC0 1.0 367KB  tatami-mats.jpg
+20:51:59 [26/306] Yoga mats before a class  ✓ [3] PDM 1.0 189KB  yoga-mats-before-a-class.jpg
+20:52:02 [27/306] Cars occupying some parking spaces  ✓ [4] No restrictions 946KB  cars-occupying-some-parking-spaces.jpg
+20:52:07 [28/306] A parking lot with several empty spaces  ✓ [4] CC BY-SA 4.0 1037KB  a-parking-lot-with-several-empty-spaces.jpg
+20:52:11 [29/306] Cars parked in different colors  ✓ [4] CC BY-SA 4.0 722KB  cars-parked-in-different-colors.jpg
+20:52:15 [30/306] Shopping carts nested imperfectly  — no match
+20:52:19 [31/306] Bicycles of different sizes in one rack  ✓ [7] CC BY-SA 4.0 2132KB  bicycles-of-different-sizes-in-one-rack.jpg
+20:52:24 [32/306] Motorcycles squeezed into marked bays  ✓ [3] BY-SA 2.0 237KB  motorcycles-squeezed-into-marked-bays.jpg
+20:52:28 [33/306] Luggage moving through airport security trays  ✓ [5] CC0 1.0 150KB  luggage-moving-through-airport-security-trays.jpg
+20:52:31 [34/306] Suitcases circulating on baggage claim  ✓ [3] BY-NC 2.0 167KB  suitcases-circulating-on-baggage-claim.jpg
+20:52:34 [35/306] Passengers sitting in airport rows  ✓ [4] CC0 1.0 75KB  passengers-sitting-in-airport-rows.jpg
+20:52:40 [36/306] People occupying subway seats  ✓ [4] No restrictions 1184KB  people-occupying-subway-seats.jpg
+20:52:46 [37/306] Different bodies arranged in airplane seats  ✓ [8] CC0 1.0 109KB  different-bodies-arranged-in-airplane-seats.jpg
+20:52:50 [38/306] Commuters standing between train poles  ✓ [6] BY-SA 2.0 413KB  commuters-standing-between-train-poles.jpg
+20:52:52 [39/306] People waiting at boarding gates  ✓ [4] CC BY-SA 4.0 646KB  people-waiting-at-boarding-gates.jpg
+20:52:55 [40/306] Taxi queues  ✓ [4] CC BY-SA 4.0 674KB  taxi-queues.jpg
+20:52:57 [41/306] Bus queues  ✓ [4] CC BY-SA 4.0 1249KB  bus-queues.jpg
+20:53:00 [42/306] Traffic filling a street grid  ✓ [6] BY-SA 2.0 250KB  traffic-filling-a-street-grid.jpg
+20:53:03 [43/306] Boats occupying marina slips  ✓ [3] BY-NC 2.0 87KB  boats-occupying-marina-slips.jpg
+20:53:07 [44/306] Containers stacked in different colors  ✓ [8] CC0 1.0 471KB  containers-stacked-in-different-colors.jpg
+20:53:11 [45/306] Windows lit differently across an apartment buildi  ✓ [7] CC0 1.0 1565KB  windows-lit-differently-across-an-apartment-building.jpg
+20:53:15 [46/306] People visible through separate apartment windows  ✓ [3] BY-NC 2.0 173KB  people-visible-through-separate-apartment-windows.jpg
+20:53:18 [47/306] Curtains changing from window to window  ✓ [5] CC BY-SA 4.0 620KB  curtains-changing-from-window-to-window.jpg
+20:53:20 [48/306] Plants growing across balcony grids  ✓ [3] BY-NC 2.0 173KB  plants-growing-across-balcony-grids.jpg
+20:53:23 [49/306] Laundry hanging from repeated balconies  ✓ [3] BY-NC 2.0 173KB  laundry-hanging-from-repeated-balconies.jpg
+20:53:25 [50/306] Air conditioners interrupting a facade  ✓ [4] CC BY-SA 2.0 832KB  air-conditioners-interrupting-a-facade.jpg
+20:53:29 [51/306] Open and closed windows  ✓ [7] CC BY-SA 4.0 1145KB  open-and-closed-windows.jpg
+20:53:32 [52/306] Different objects placed on identical shelves  ✓ [3] BY-NC-SA 2.0 218KB  different-objects-placed-on-identical-shelves.jpg
+20:53:36 [53/306] Books of uneven heights on a bookshelf  ✓ [6] BY-NC-SA 2.0 228KB  books-of-uneven-heights-on-a-bookshelf.jpg
+20:53:38 [54/306] Shoes filling a shoe rack  ✓ [3] BY-SA 2.0 214KB  shoes-filling-a-shoe-rack.jpg
+20:53:42 [55/306] Coats hanging from evenly spaced hooks  ✓ [6] BY-NC-SA 2.0 210KB  coats-hanging-from-evenly-spaced-hooks.jpg
+20:53:45 [56/306] Family photographs arranged on a wall  ✓ [7] CC BY 2.0 612KB  family-photographs-arranged-on-a-wall.jpg
+20:53:48 [57/306] Post-it notes on a planning wall  ✓ [6] BY-NC-SA 2.0 190KB  post-it-notes-on-a-planning-wall.jpg
+20:53:50 [58/306] Name tags laid out for an event  ✓ [4] No restrictions 575KB  name-tags-laid-out-for-an-event.jpg
+20:53:52 [59/306] Employee ID cards on a rack  ✓ [4] Public domain 190KB  employee-id-cards-on-a-rack.jpg
+20:53:55 [60/306] Student work pinned to a critique wall  ✓ [6] BY 2.0 348KB  student-work-pinned-to-a-critique-wall.jpg
+20:53:58 [61/306] Classroom desks occupied by students  ✓ [4] CC BY 2.0 840KB  classroom-desks-occupied-by-students.jpg
+20:54:01 [62/306] People seated in lecture-hall rows  ✓ [4] Public domain 1039KB  people-seated-in-lecture-hall-rows.jpg
+20:54:04 [63/306] Students posing for a class photograph  ✓ [5] CC0 1.0 154KB  students-posing-for-a-class-photograph.jpg
+20:54:07 [64/306] Rows of people at graduation  ✓ [7] CC BY 2.0 313KB  rows-of-people-at-graduation.jpg
+20:54:14 [65/306] Conference audiences  ✓ [4] CC BY-SA 4.0 907KB  conference-audiences.jpg
+20:54:17 [66/306] Theater audiences  ✓ [4] CC0 905KB  theater-audiences.jpg
+20:54:21 [67/306] Church congregations in pews  ✓ [4] CC0 352KB  church-congregations-in-pews.jpg
+20:54:24 [68/306] Stadium crowds  ✓ [4] CC0 1.0 258KB  stadium-crowds.jpg
+20:54:28 [69/306] Wimbledon spectators filling tiered seats  ✓ [5] CC0 1.0 275KB  wimbledon-spectators-filling-tiered-seats.jpg
+20:54:32 [70/306] Bleachers with scattered spectators  ✓ [3] BY-NC-SA 2.0 238KB  bleachers-with-scattered-spectators.jpg
+20:54:35 [71/306] An orchestra seated onstage  — no match
+20:54:37 [72/306] Choir members standing on risers  — no match
+20:54:42 [73/306] Marching-band formations  ✓ [4] CC BY-SA 4.0 955KB  marching-band-formations.jpg
+20:54:45 [74/306] Military formations  ✓ [7] OGL v1.0 317KB  military-formations.jpg
+20:54:48 [75/306] Parade participants  ✓ [4] CC BY 4.0 499KB  parade-participants.jpg
+20:54:53 [76/306] Dancers in formation  ✓ [4] CC BY-SA 4.0 325KB  dancers-in-formation.jpg
+20:54:55 [77/306] Ballet students at a barre  ✓ [4] CC BY 2.0 706KB  ballet-students-at-a-barre.jpg
+20:54:58 [78/306] Yoga mats occupied by different bodies  ✓ [3] PDM 1.0 189KB  yoga-mats-occupied-by-different-bodies.jpg
+20:55:03 [79/306] People in a group exercise class  ✓ [4] Public domain 352KB  people-in-a-group-exercise-class.jpg
+20:55:05 [80/306] Spin bikes occupied at different intensities  ✓ [6] BY-NC-SA 2.0 103KB  spin-bikes-occupied-at-different-intensities.jpg
+20:55:08 [81/306] Swimmers separated into lanes  ✓ [4] CC BY-SA 2.0 722KB  swimmers-separated-into-lanes.jpg
+20:55:14 [82/306] Runners at a starting line  ✓ [7] Public domain 551KB  runners-at-a-starting-line.jpg
+20:55:17 [83/306] Cyclists inside a peloton  ✓ [3] BY-NC-SA 2.0 244KB  cyclists-inside-a-peloton.jpg
+20:55:20 [84/306] Workers along an assembly line  ✓ [4] CC BY 2.0 305KB  workers-along-an-assembly-line.jpg
+20:55:23 [85/306] Chefs at separate kitchen stations  ✓ [6] BY 2.0 62KB  chefs-at-separate-kitchen-stations.jpg
+20:55:26 [86/306] Barbershop chairs in use  ✓ [7] CC BY-SA 3.0 745KB  barbershop-chairs-in-use.jpg
+20:55:29 [87/306] Restaurant tables during service  ✓ [4] Public domain 531KB  restaurant-tables-during-service.jpg
+20:55:36 [88/306] Place settings at a banquet  ✓ [4] CC0 771KB  place-settings-at-a-banquet.jpg
+20:55:39 [89/306] Cafeteria trays with different meals  ✓ [5] PDM 1.0 162KB  cafeteria-trays-with-different-meals.jpg
+20:55:42 [90/306] Food-delivery bags lined up  ✓ [4] No restrictions 1068KB  food-delivery-bags-lined-up.jpg
+20:55:44 [91/306] Produce arranged in market crates  ✓ [7] CC BY-SA 4.0 560KB  produce-arranged-in-market-crates.jpg
+20:55:47 [92/306] Fruit stacked into loose pyramids  ✓ [8] CC0 1.0 276KB  fruit-stacked-into-loose-pyramids.jpg
+20:55:51 [93/306] Dumplings lined up by hand  ✓ [4] No restrictions 604KB  dumplings-lined-up-by-hand.jpg
+20:55:55 [94/306] Cookies spaced across baking sheets  ✓ [5] CC0 1.0 488KB  cookies-spaced-across-baking-sheets.jpg
+20:55:57 [95/306] Cupcakes in display cases  ✓ [4] Public domain 615KB  cupcakes-in-display-cases.jpg
+20:56:00 [96/306] Bread loaves on bakery racks  ✓ [4] CC BY 2.0 539KB  bread-loaves-on-bakery-racks.jpg
+20:56:02 [97/306] Clothes hanging along retail racks  ✓ [3] BY-SA 2.0 201KB  clothes-hanging-along-retail-racks.jpg
+20:56:06 [98/306] Folded shirts slowly becoming uneven  ✓ [5] CC0 1.0 436KB  folded-shirts-slowly-becoming-uneven.jpg
+20:56:11 [99/306] Shoes displayed as pairs  ✓ [4] CC BY-SA 4.0 448KB  shoes-displayed-as-pairs.jpg
+20:56:13 [100/306] Sunglasses on a display wall  ✓ [4] Public domain 627KB  sunglasses-on-a-display-wall.jpg
+20:56:18 [101/306] Lipsticks arranged by shade  ✓ [3] BY 2.0 132KB  lipsticks-arranged-by-shade.jpg
+20:56:20 [102/306] Nail-polish bottles arranged by color  ✓ [3] BY-SA 2.0 152KB  nail-polish-bottles-arranged-by-color.jpg
+20:56:23 [103/306] Fabric swatches  ✓ [6] BY-NC 2.0 151KB  fabric-swatches.jpg
+20:56:26 [104/306] Tile samples  ✓ [6] BY 2.0 173KB  tile-samples.jpg
+20:56:29 [105/306] Magazine racks  ✓ [5] CC0 1.0 173KB  magazine-racks.jpg
+20:56:31 [106/306] Vinyl records in bins  ✓ [4] CC BY-SA 4.0 579KB  vinyl-records-in-bins.jpg
+20:56:33 [107/306] Tennis-court markings during a match  ✓ [4] CC BY-SA 4.0 530KB  tennis-court-markings-during-a-match.jpg
+20:56:37 [108/306] Basketball players moving across court lines  ✓ [3] BY-NC-SA 2.0 397KB  basketball-players-moving-across-court-lines.jpg
+20:56:40 [109/306] Volleyball players occupying zones  — no match
+20:56:43 [110/306] Soccer players over mowing stripes  ✓ [6] BY-NC-SA 2.0 248KB  soccer-players-over-mowing-stripes.jpg
+20:56:46 [111/306] Football players across yard lines  ✓ [4] CC BY 2.0 1196KB  football-players-across-yard-lines.jpg
+20:56:48 [112/306] Swimmers breaking the stillness of pool lanes  ✓ [4] Public domain 587KB  swimmers-breaking-the-stillness-of-pool-lanes.jpg
+20:56:51 [113/306] Bowling balls placed unevenly in racks  ✓ [3] BY 2.0 161KB  bowling-balls-placed-unevenly-in-racks.jpg
+20:56:53 [114/306] Climbing holds distributed across a wall  ✓ [5] CC BY 2.0 273KB  climbing-holds-distributed-across-a-wall.jpg
+20:56:56 [115/306] Chess pieces during a game  ✓ [5] BY 2.0 127KB  chess-pieces-during-a-game.jpg
+20:56:59 [116/306] Scrabble tiles on a board  ✓ [7] CC BY-SA 3.0 725KB  scrabble-tiles-on-a-board.jpg
+20:57:02 [117/306] Bingo cards being marked  ✓ [3] BY 2.0 210KB  bingo-cards-being-marked.jpg
+20:57:06 [118/306] Foosball players in fixed formations  ✓ [6] BY-NC 2.0 129KB  foosball-players-in-fixed-formations.jpg
+20:57:10 [119/306] Crop fields seen from above  ✓ [7] Public domain 1398KB  crop-fields-seen-from-above.jpg
+20:57:13 [120/306] Vineyard rows  ✓ [7] CC BY-SA 4.0 659KB  vineyard-rows.jpg
+20:57:16 [121/306] Orchard trees  ✓ [8] CC0 1.0 306KB  orchard-trees.jpg
+20:57:19 [122/306] Rice paddies  ✓ [7] CC BY-SA 4.0 602KB  rice-paddies.jpg
+20:57:22 [123/306] Tea plantations  ✓ [6] PDM 1.0 203KB  tea-plantations.jpg
+20:57:26 [124/306] Community-garden plots  ✓ [7] CC BY 2.0 1096KB  community-garden-plots.jpg
+20:57:29 [125/306] Greenhouse frames  ✓ [6] BY 2.0 143KB  greenhouse-frames.jpg
+20:57:32 [126/306] Plant-nursery trays  ✓ [4] CC0 613KB  plant-nursery-trays.jpg
+20:57:34 [127/306] Seedlings growing at different speeds  ✓ [6] BY-NC-SA 2.0 106KB  seedlings-growing-at-different-speeds.jpg
+20:57:39 [128/306] Flower beds  ✓ [4] CC BY-SA 4.0 773KB  flower-beds.jpg
+20:57:43 [129/306] Hedge mazes  ✓ [4] FAL 1190KB  hedge-mazes.jpg
+20:57:47 [130/306] Irrigation channels  ✓ [7] CC BY-SA 4.0 1175KB  irrigation-channels.jpg
+20:57:49 [131/306] Hay bales across a field  ✓ [6] BY 2.0 243KB  hay-bales-across-a-field.jpg
+20:57:55 [132/306] Timber stacks  ✓ [7] CC BY-SA 2.0 780KB  timber-stacks.jpg
+20:57:58 [133/306] Fishing nets  ✓ [7] CC BY-SA 4.0 1299KB  fishing-nets.jpg
+20:58:02 [134/306] Honeycomb with a few dark or empty cells  ✓ [6] BY 2.0 167KB  honeycomb-with-a-few-dark-or-empty-cells.jpg
+20:58:07 [135/306] Beetle compound eyes  ✓ [4] CC BY-SA 2.0 378KB  beetle-compound-eyes.jpg
+20:58:10 [136/306] Sunflower seeds  ✓ [7] CC0 975KB  sunflower-seeds.jpg
+20:58:13 [137/306] Corn kernels  ✓ [7] CC BY-SA 3.0 426KB  corn-kernels.jpg
+20:58:15 [138/306] Pinecone scales  ✓ [4] CC BY-SA 4.0 259KB  pinecone-scales.jpg
+20:58:19 [139/306] Leaf-cell structures  ✓ [4] No restrictions 598KB  leaf-cell-structures.jpg
+20:58:23 [140/306] Tree bark divided into rough rectangles  ✓ [3] BY 2.0 523KB  tree-bark-divided-into-rough-rectangles.jpg
+20:58:27 [141/306] Cracked earth  ✓ [8] CC0 1.0 451KB  cracked-earth.jpg
+20:58:30 [142/306] Salt flats  ✓ [7] CC BY 4.0 530KB  salt-flats.jpg
+20:58:32 [143/306] Rows of beach umbrellas  ✓ [7] CC BY-SA 4.0 386KB  rows-of-beach-umbrellas.jpg
+20:58:37 [144/306] Campsite plots  ✓ [4] CC BY-SA 2.0 1228KB  campsite-plots.jpg
+20:58:40 [145/306] Hotel windows with different lights on  ✓ [7] CC BY-SA 4.0 265KB  hotel-windows-with-different-lights-on.jpg
+20:58:43 [146/306] A wall of television screens showing different foo  ✓ [6] BY-NC 2.0 189KB  a-wall-of-television-screens-showing-different-footage.jpg
+20:58:45 [147/306] A crowded parking lot  ✓ [5] CC0 1.0 835KB  a-crowded-parking-lot.jpg
+20:58:48 [148/306] Cars parked across painted lines  ✓ [4] CC BY-SA 3.0 964KB  cars-parked-across-painted-lines.jpg
+20:58:51 [149/306] Double-parked cars  ✓ [4] Public domain 397KB  double-parked-cars.jpg
+20:58:56 [150/306] Shopping carts scattered around parking bays  ✓ [3] BY-SA 2.0 192KB  shopping-carts-scattered-around-parking-bays.jpg
+20:59:00 [151/306] Traffic jammed inside an ordered road system  ✓ [3] BY 2.0 260KB  traffic-jammed-inside-an-ordered-road-system.jpg
+20:59:03 [152/306] Pedestrians crossing outside a crosswalk  ✓ [4] CC BY 3.0 535KB  pedestrians-crossing-outside-a-crosswalk.jpg
+20:59:06 [153/306] A crowd spilling through queue barriers  ✓ [3] BY-SA 2.0 124KB  a-crowd-spilling-through-queue-barriers.jpg
+20:59:09 [154/306] Airport lines folding back on themselves  ✓ [4] Public domain 1033KB  airport-lines-folding-back-on-themselves.jpg
+20:59:12 [155/306] Bikes locked on top of one another  ✓ [6] BY-NC-SA 2.0 103KB  bikes-locked-on-top-of-one-another.jpg
+20:59:14 [156/306] A bicycle rack with abandoned wheels  ✓ [4] CC BY 2.0 597KB  a-bicycle-rack-with-abandoned-wheels.jpg
+20:59:18 [157/306] E-scooters scattered across sidewalk tiles  ✓ [7] CC0 1.0 1090KB  e-scooters-scattered-across-sidewalk-tiles.jpg
+20:59:22 [158/306] Construction materials filling scaffolding bays  ✓ [3] BY 2.0 170KB  construction-materials-filling-scaffolding-bays.jpg
+20:59:25 [159/306] Torn construction mesh  ✓ [6] CC0 1.0 172KB  torn-construction-mesh.jpg
+20:59:28 [160/306] Bent chain-link fencing  ✓ [4] CC BY-SA 4.0 816KB  bent-chain-link-fencing.jpg
+20:59:30 [161/306] A hand reaching through a chain-link fence  ✓ [4] CC BY 2.0 814KB  a-hand-reaching-through-a-chain-link-fence.jpg
+20:59:33 [162/306] Plants growing through a metal fence  ✓ [4] No restrictions 1731KB  plants-growing-through-a-metal-fence.jpg
+20:59:36 [163/306] Flowers seen through gridded glass  ✓ [3] BY-NC-SA 2.0 131KB  flowers-seen-through-gridded-glass.jpg
+20:59:39 [164/306] Ivy overtaking a brick wall  ✓ [7] CC0 1.0 1090KB  ivy-overtaking-a-brick-wall.jpg
+20:59:42 [165/306] Weeds growing between paving stones  ✓ [3] BY-NC 2.0 252KB  weeds-growing-between-paving-stones.jpg
+20:59:45 [166/306] A cracked tiled floor  ✓ [6] BY 2.0 256KB  a-cracked-tiled-floor.jpg
+20:59:47 [167/306] Missing tiles in a tiled wall  ✓ [7] CC BY-SA 4.0 1286KB  missing-tiles-in-a-tiled-wall.jpg
+20:59:51 [168/306] Mismatched replacement tiles  ✓ [3] BY-NC 2.0 326KB  mismatched-replacement-tiles.jpg
+20:59:53 [169/306] A warped brick wall  ✓ [7] CC BY-SA 4.0 609KB  a-warped-brick-wall.jpg
+20:59:56 [170/306] Broken windows across a regular facade  ✓ [3] No restrictions 439KB  broken-windows-across-a-regular-facade.jpg
+20:59:58 [171/306] Apartment windows with irregular lights  ✓ [5] CC BY-SA 3.0 568KB  apartment-windows-with-irregular-lights.jpg
+21:00:00 [172/306] Objects pressed against different windows  ✓ [3] BY-NC-SA 2.0 157KB  objects-pressed-against-different-windows.jpg
+21:00:04 [173/306] Laundry creating noise across balcony grids  ✓ [3] BY-NC 2.0 173KB  laundry-creating-noise-across-balcony-grids.jpg
+21:00:07 [174/306] Satellite dishes interrupting apartment facades  ✓ [7] CC0 1.0 1565KB  satellite-dishes-interrupting-apartment-facades.jpg
+21:00:10 [175/306] Fire escapes layered over window grids  ✓ [6] BY-SA 2.0 525KB  fire-escapes-layered-over-window-grids.jpg
+21:00:13 [176/306] Reflections breaking a glass-building grid  ✓ [7] CC0 1.0 1565KB  reflections-breaking-a-glass-building-grid.jpg
+21:00:16 [177/306] A person moving behind translucent windows  ✓ [8] CC0 1.0 304KB  a-person-moving-behind-translucent-windows.jpg
+21:00:21 [178/306] Shadows crossing a tiled surface  ✓ [3] BY-SA 2.0 283KB  shadows-crossing-a-tiled-surface.jpg
+21:00:25 [179/306] Forks interlocking into a distorted grid  ✓ [3] BY-NC-SA 2.0 352KB  forks-interlocking-into-a-distorted-grid.jpg
+21:00:30 [180/306] Bent wire mesh  ✓ [4] No restrictions 998KB  bent-wire-mesh.jpg
+21:00:33 [181/306] A wire grid being pulled out of shape  ✓ [3] BY-NC-SA 2.0 352KB  a-wire-grid-being-pulled-out-of-shape.jpg
+21:00:36 [182/306] A grid folding into three dimensions  ✓ [4] CC BY-SA 4.0 368KB  a-grid-folding-into-three-dimensions.jpg
+21:00:38 [183/306] A grid cut open in one corner  ✓ [4] CC BY 4.0 1138KB  a-grid-cut-open-in-one-corner.jpg
+21:00:41 [184/306] A grid with one cell stretched  ✓ [3] BY-NC-SA 2.0 352KB  a-grid-with-one-cell-stretched.jpg
+21:00:44 [185/306] A grid with one row slipping sideways  ✓ [3] BY-NC-SA 2.0 352KB  a-grid-with-one-row-slipping-sideways.jpg
+21:00:47 [186/306] A grid interrupted by a circle  ✓ [4] CC BY-SA 4.0 1263KB  a-grid-interrupted-by-a-circle.jpg
+21:00:49 [187/306] A grid obscured by fog  ✓ [4] Public domain 543KB  a-grid-obscured-by-fog.jpg
+21:00:52 [188/306] A grid disappearing into darkness  ✓ [7] Public domain 188KB  a-grid-disappearing-into-darkness.png
+21:00:55 [189/306] A grid reflected in moving water  ✓ [3] BY-NC-SA 2.0 352KB  a-grid-reflected-in-moving-water.jpg
+21:00:57 [190/306] Light passing through perforated screens  ✓ [5] CC BY-SA 3.0 568KB  light-passing-through-perforated-screens.jpg
+21:01:01 [191/306] Pixelated heat maps with irregular concentrations  ✓ [3] BY 2.0 155KB  pixelated-heat-maps-with-irregular-concentrations.jpg
+21:01:04 [192/306] Glowing squares spreading across dark pavement  — no match
+21:01:05 [193/306] Blocks clustering unevenly  ✓ [4] No restrictions 761KB  blocks-clustering-unevenly.jpg
+21:01:08 [194/306] A Tetris board with gaps  ✓ [5] CC0 1.0 333KB  a-tetris-board-with-gaps.jpg
+21:01:12 [195/306] Sticky notes falling from a planning wall  ✓ [3] BY-NC-SA 2.0 127KB  sticky-notes-falling-from-a-planning-wall.jpg
+21:01:16 [196/306] An overfilled bulletin board  ✓ [3] BY-NC-SA 2.0 670KB  an-overfilled-bulletin-board.jpg
+21:01:18 [197/306] Posters pasted over tile joints  ✓ [3] BY-NC 2.0 326KB  posters-pasted-over-tile-joints.jpg
+21:01:21 [198/306] Torn flyers layered on a street wall  ✓ [7] CC0 1.0 910KB  torn-flyers-layered-on-a-street-wall.jpg
+21:01:24 [199/306] Newspaper columns crossed by hand-drawn lines  ✓ [4] Public domain 320KB  newspaper-columns-crossed-by-hand-drawn-lines.jpg
+21:01:26 [200/306] Typography escaping its columns  ✓ [4] PDM-owner 5017KB  typography-escaping-its-columns.png
+21:01:29 [201/306] Letters scattered across an underlying grid  ✓ [3] BY-NC-SA 2.0 352KB  letters-scattered-across-an-underlying-grid.jpg
+21:01:33 [202/306] A perfect matrix with one symbol missing  ✓ [3] BY-NC-SA 2.0 120KB  a-perfect-matrix-with-one-symbol-missing.jpg
+21:01:37 [203/306] A repeated-symbol chart with changing colors  — no match
+21:01:38 [204/306] A black-and-white grid invaded by diagonal stripes  ✓ [6] BY-NC-SA 2.0 248KB  a-black-and-white-grid-invaded-by-diagonal-stripes.jpg
+21:01:43 [205/306] Rectangles rotated inside a square field  ✓ [6] BY 2.0 512KB  rectangles-rotated-inside-a-square-field.jpg
+21:01:45 [206/306] Squares scattered over an invisible grid  ✓ [3] BY-NC-SA 2.0 352KB  squares-scattered-over-an-invisible-grid.jpg
+21:01:49 [207/306] Strips woven across one another  ✓ [3] BY 2.0 179KB  strips-woven-across-one-another.jpg
+21:01:52 [208/306] A woven mat with interrupted colors  ✓ [6] BY 2.0 287KB  a-woven-mat-with-interrupted-colors.jpg
+21:01:57 [209/306] A damaged basket weave  ✓ [4] CC BY 2.0 262KB  a-damaged-basket-weave.jpg
+21:02:00 [210/306] A quilt with irregular patches  ✓ [6] BY-NC-SA 2.0 396KB  a-quilt-with-irregular-patches.jpg
+21:02:04 [211/306] A patchwork textile using mismatched fabrics  — no match
+21:02:06 [212/306] A signature quilt made from repeated cubes  ✓ [6] BY-NC-SA 2.0 396KB  a-signature-quilt-made-from-repeated-cubes.jpg
+21:02:09 [213/306] A floral textile built over square modules  ✓ [3] BY 2.0 149KB  a-floral-textile-built-over-square-modules.jpg
+21:02:13 [214/306] A woven textile with bright blocks breaking a neut  ✓ [3] BY-NC-SA 2.0 202KB  a-woven-textile-with-bright-blocks-breaking-a-neutral-field.jpg
+21:02:15 [215/306] A geometric quilt that almost forms a face  ✓ [6] BY-NC-SA 2.0 396KB  a-geometric-quilt-that-almost-forms-a-face.jpg
+21:02:19 [216/306] Repeated squares distorted into an optical pattern  ✓ [8] CC0 1.0 310KB  repeated-squares-distorted-into-an-optical-pattern.jpg
+21:02:23 [217/306] A colored-dot matrix shifting between circles and   ✓ [3] BY-NC-SA 2.0 239KB  a-colored-dot-matrix-shifting-between-circles-and-squares.jpg
+21:02:27 [218/306] Nested squares with changing colors  ✓ [4] No restrictions 1053KB  nested-squares-with-changing-colors.jpg
+21:02:30 [219/306] Blocks of color placed inside photographic imagery  ✓ [3] BY-NC-SA 2.0 202KB  blocks-of-color-placed-inside-photographic-imagery.jpg
+21:02:33 [220/306] A face reconstructed through square fragments  ✓ [3] BY-NC-SA 2.0 162KB  a-face-reconstructed-through-square-fragments.jpg
+21:02:36 [221/306] A portrait breaking into pixel blocks  ✓ [3] BY-NC-SA 2.0 202KB  a-portrait-breaking-into-pixel-blocks.jpg
+21:02:39 [222/306] Eyes collected and recombined into a grid  ✓ [3] BY-NC-SA 2.0 352KB  eyes-collected-and-recombined-into-a-grid.jpg
+21:02:43 [223/306] Facial features placed in mismatched cells  — no match
+21:02:45 [224/306] Bodies folded inside individual boxes  ✓ [5] CC0 1.0 436KB  bodies-folded-inside-individual-boxes.jpg
+21:02:48 [225/306] A person exceeding the boundaries of their box  ✓ [4] CC BY-SA 3.0 557KB  a-person-exceeding-the-boundaries-of-their-box.jpg
+21:02:50 [226/306] A crowd treated as hundreds of individual cells  ✓ [4] CC BY-SA 4.0 324KB  a-crowd-treated-as-hundreds-of-individual-cells.jpg
+21:02:53 [227/306] A crowd with inconsistent spacing  ✓ [4] CC0 1.0 258KB  a-crowd-with-inconsistent-spacing.jpg
+21:02:56 [228/306] People leaving gaps in rows of seats  ✓ [5] CC0 1.0 275KB  people-leaving-gaps-in-rows-of-seats.jpg
+21:02:59 [229/306] People standing on chairs in a seated crowd  ✓ [4] No restrictions 908KB  people-standing-on-chairs-in-a-seated-crowd.jpg
+21:03:02 [230/306] Protest signs breaking the regularity of a crowd  ✓ [4] CC0 1.0 258KB  protest-signs-breaking-the-regularity-of-a-crowd.jpg
+21:03:06 [231/306] Stadium seats after people begin leaving  ✓ [8] CC0 1.0 228KB  stadium-seats-after-people-begin-leaving.jpg
+21:03:09 [232/306] Yoga mats shifting during a crowded class  ✓ [3] PDM 1.0 189KB  yoga-mats-shifting-during-a-crowded-class.jpg
+21:03:12 [233/306] Tables pushed together after an event  ✓ [6] CC0 1.0 317KB  tables-pushed-together-after-an-event.jpg
+21:03:16 [234/306] Chairs scattered after a lecture  ✓ [3] BY 2.0 144KB  chairs-scattered-after-a-lecture.jpg
+21:03:20 [235/306] Desks rearranged for group work  ✓ [4] No restrictions 512KB  desks-rearranged-for-group-work.jpg
+21:03:26 [236/306] Lockers covered in stickers and notes  ✓ [5] CC0 1.0 202KB  lockers-covered-in-stickers-and-notes.jpg
+21:03:31 [237/306] Books collapsing across shelf divisions  ✓ [4] CC0 1.0 114KB  books-collapsing-across-shelf-divisions.jpg
+21:03:37 [238/306] Grocery products removed from the middle of a disp  ✓ [3] BY-SA 2.0 79KB  grocery-products-removed-from-the-middle-of-a-display.jpg
+21:03:40 [239/306] Refrigerators with partially empty shelves  ✓ [3] CC0 1.0 179KB  refrigerators-with-partially-empty-shelves.jpg
+21:03:43 [240/306] Products pushed into the wrong supermarket row  ✓ [3] BY 2.0 182KB  products-pushed-into-the-wrong-supermarket-row.jpg
+21:03:46 [241/306] Mixed packaging creating noise behind refrigerator  ✓ [3] CC0 1.0 179KB  mixed-packaging-creating-noise-behind-refrigerator-glass.jpg
+21:03:50 [242/306] Sale stickers interrupting orderly product display  ✓ [3] BY-SA 2.0 79KB  sale-stickers-interrupting-orderly-product-displays.jpg
+21:03:53 [243/306] A freezer shelf after shoppers have searched throu  ✓ [3] BY 2.0 96KB  a-freezer-shelf-after-shoppers-have-searched-through-it.jpg
+21:03:59 [244/306] Shopping baskets stacked at different angles  ✓ [6] BY-NC-SA 2.0 187KB  shopping-baskets-stacked-at-different-angles.jpg
+21:04:02 [245/306] Cassette tapes arranged like bricks but varying in  ✓ [7] CC0 1.0 1090KB  cassette-tapes-arranged-like-bricks-but-varying-in-size.jpg
+21:04:05 [246/306] Screens scattered across a dark installation  ✓ [6] BY-NC 2.0 189KB  screens-scattered-across-a-dark-installation.jpg
+21:04:11 [247/306] Photographs organized into cells of different size  ✓ [3] BY 2.0 303KB  photographs-organized-into-cells-of-different-sizes.jpg
+21:04:14 [248/306] Clouds split across photographic contact sheets  ✓ [5] CC0 1.0 350KB  clouds-split-across-photographic-contact-sheets.jpg
+21:04:17 [249/306] Birds crossing the divisions of a photo grid  ✓ [3] BY-NC-SA 2.0 352KB  birds-crossing-the-divisions-of-a-photo-grid.jpg
+21:04:20 [250/306] A landscape cut apart and recombined into tiles  ✓ [3] BY-NC 2.0 326KB  a-landscape-cut-apart-and-recombined-into-tiles.jpg
+21:04:24 [251/306] An aerial settlement that resembles an overwhelmin  ✓ [3] BY-NC-SA 2.0 260KB  an-aerial-settlement-that-resembles-an-overwhelming-maze.jpg
+21:04:27 [252/306] Agricultural plots with irregular boundaries  ✓ [3] BY 2.0 140KB  agricultural-plots-with-irregular-boundaries.jpg
+21:04:30 [253/306] Aerial city blocks interrupted by highways  ✓ [6] BY-NC 2.0 118KB  aerial-city-blocks-interrupted-by-highways.jpg
+21:04:34 [254/306] A formal garden becoming overgrown  ✓ [3] BY-NC 2.0 129KB  a-formal-garden-becoming-overgrown.jpg
+21:04:37 [255/306] A honeycomb with damaged cells  ✓ [6] BY 2.0 167KB  a-honeycomb-with-damaged-cells.jpg
+21:04:41 [256/306] A spiderweb repaired unevenly  ✓ [6] CC0 1.0 338KB  a-spiderweb-repaired-unevenly.jpg
+21:04:44 [257/306] A pile of toilet-paper rolls forming a loose grid  ✓ [3] BY-NC-SA 2.0 352KB  a-pile-of-toilet-paper-rolls-forming-a-loose-grid.jpg
+21:04:46 [258/306] Boxes stacked without aligning  ✓ [4] CC BY 2.0 525KB  boxes-stacked-without-aligning.jpg
+21:04:50 [259/306] Crates piled at a market  ✓ [5] CC0 1.0 445KB  crates-piled-at-a-market.jpg
+21:04:53 [260/306] Pallets collapsing into one another  ✓ [3] PDM 1.0 239KB  pallets-collapsing-into-one-another.jpg
+21:04:56 [261/306] Construction bricks left in partial rows  ✓ [6] BY-SA 2.0 185KB  construction-bricks-left-in-partial-rows.jpg
+21:05:00 [262/306] Rebar becoming dense visual interference  ✓ [3] BY 2.0 239KB  rebar-becoming-dense-visual-interference.jpg
+21:05:03 [263/306] Electrical cables crossing a server rack  ✓ [5] CC0 1.0 370KB  electrical-cables-crossing-a-server-rack.jpg
+21:05:06 [264/306] Pipes weaving around a structural grid  ✓ [3] BY-NC-SA 2.0 352KB  pipes-weaving-around-a-structural-grid.jpg
+21:05:09 [265/306] Glitching pixels on an LED screen  ✓ [6] BY-NC 2.0 189KB  glitching-pixels-on-an-led-screen.jpg
+21:05:12 [266/306] Surveillance monitors displaying unrelated scenes  ✓ [3] BY-NC-SA 2.0 236KB  surveillance-monitors-displaying-unrelated-scenes.jpg
+21:05:15 [267/306] Digital windows overlapping on a desktop  ✓ [8] CC0 1.0 304KB  digital-windows-overlapping-on-a-desktop.jpg
+21:05:18 [268/306] App icons interrupted by notification badges  ✓ [3] PDM 1.0 215KB  app-icons-interrupted-by-notification-badges.jpg
+21:05:21 [269/306] Browser tabs accumulating across the screen  ✓ [6] BY-NC 2.0 189KB  browser-tabs-accumulating-across-the-screen.jpg
+21:05:26 [270/306] Spreadsheet cells containing inconsistent amounts   — no match
+21:05:27 [271/306] Calendar blocks overlapping  ✓ [3] BY-NC-SA 2.0 202KB  calendar-blocks-overlapping.jpg
+21:05:31 [272/306] A QR code damaged by paint or tearing  ✓ [3] BY-NC 2.0 207KB  a-qr-code-damaged-by-paint-or-tearing.jpg
+21:05:37 [273/306] A mosaic with missing pieces  ✓ [4] CC BY-SA 2.0 1304KB  a-mosaic-with-missing-pieces.jpg
+21:05:40 [274/306] Film frames scratched or burned  ✓ [6] BY 2.0 143KB  film-frames-scratched-or-burned.jpg
+21:05:44 [275/306] A photo contact sheet with crossed-out images  ✓ [7] Public domain 1536KB  a-photo-contact-sheet-with-crossed-out-images.jpg
+21:05:47 [276/306] A color chart stained by use  ✓ [4] Public domain 600KB  a-color-chart-stained-by-use.jpg
+21:05:49 [277/306] Modular shelving with objects extending outside ea  ✓ [6] BY 2.0 145KB  modular-shelving-with-objects-extending-outside-each-cell.jpg
+21:05:52 [278/306] A Sol LeWitt-like corner grid becoming three-dimen  ✓ [3] BY-NC-SA 2.0 352KB  a-sol-lewitt-like-corner-grid-becoming-three-dimensional.jpg
+21:05:55 [279/306] A wire sculpture that begins as a grid and bends o  ✓ [3] BY-NC-SA 2.0 352KB  a-wire-sculpture-that-begins-as-a-grid-and-bends-outward.jpg
+21:05:58 [280/306] A regular structure invaded by soft materials  ✓ [6] BY 2.0 228KB  a-regular-structure-invaded-by-soft-materials.jpg
+21:06:01 [281/306] Fabric stretched unevenly across a frame  ✓ [6] BY 2.0 143KB  fabric-stretched-unevenly-across-a-frame.jpg
+21:06:03 [282/306] Tiles covered by plant shadows  ✓ [4] No restrictions 878KB  tiles-covered-by-plant-shadows.jpg
+21:06:06 [283/306] A glass grid obscured by condensation  ✓ [3] BY-NC-SA 2.0 352KB  a-glass-grid-obscured-by-condensation.jpg
+21:06:10 [284/306] Rain breaking reflections across windowpanes  ✓ [6] BY-NC-SA 2.0 230KB  rain-breaking-reflections-across-windowpanes.jpg
+21:06:14 [285/306] A crowd seen through fencing  ✓ [4] CC0 1.0 258KB  a-crowd-seen-through-fencing.jpg
+21:06:17 [286/306] Order visible underneath a collage  — no match
+21:06:19 [287/306] A collage of architectural fragments  ✓ [4] CC BY-SA 3.0 897KB  a-collage-of-architectural-fragments.jpg
+21:06:22 [288/306] A collage built from uneven photographic rectangle  — no match
+21:06:24 [289/306] A grid overwritten by handwriting  ✓ [3] BY-NC-SA 2.0 352KB  a-grid-overwritten-by-handwriting.jpg
+21:06:27 [290/306] Measurement lines crossed by expressive marks  ✓ [3] PDM 1.0 141KB  measurement-lines-crossed-by-expressive-marks.jpg
+21:06:30 [291/306] Architectural plans covered with construction note  ✓ [7] CC BY-SA 4.0 448KB  architectural-plans-covered-with-construction-notes.jpg
+21:06:33 [292/306] A seating plan changed by people moving chairs  ✓ [3] BY-NC-SA 2.0 221KB  a-seating-plan-changed-by-people-moving-chairs.jpg
+21:06:38 [293/306] A formal dinner after people have started eating  ✓ [3] CC0 1.0 154KB  a-formal-dinner-after-people-have-started-eating.jpg
+21:06:41 [294/306] A supermarket display midway through restocking  ✓ [3] BY 2.0 182KB  a-supermarket-display-midway-through-restocking.jpg
+21:06:44 [295/306] A parking lot during an event  ✓ [6] BY-NC 2.0 232KB  a-parking-lot-during-an-event.jpg
+21:06:46 [296/306] A city street grid during a parade  ✓ [4] CC BY 2.0 489KB  a-city-street-grid-during-a-parade.jpg
+21:06:49 [297/306] A tiled station during rush hour  ✓ [5] BY-NC 2.0 121KB  a-tiled-station-during-rush-hour.jpg
+21:06:52 [298/306] A gridded facade during demolition  ✓ [4] CC BY-SA 2.0 1554KB  a-gridded-facade-during-demolition.jpg
+21:06:55 [299/306] Windows boarded with mismatched panels  ✓ [8] CC0 1.0 304KB  windows-boarded-with-mismatched-panels.jpg
+21:06:58 [300/306] A fence repaired with improvised materials  ✓ [6] BY-NC-SA 2.0 126KB  a-fence-repaired-with-improvised-materials.jpg
+21:07:01 [301/306] Crop rows damaged by weather  ✓ [7] CC BY-SA 4.0 335KB  crop-rows-damaged-by-weather.jpg
+21:07:04 [302/306] Footprints cutting diagonally across a field  ✓ [6] BY 2.0 512KB  footprints-cutting-diagonally-across-a-field.jpg
+21:07:07 [303/306] Beach chairs moved away from their rows  ✓ [3] BY 2.0 144KB  beach-chairs-moved-away-from-their-rows.jpg
+21:07:10 [304/306] Cemetery plots overtaken by plants  ✓ [3] BY-NC 2.0 175KB  cemetery-plots-overtaken-by-plants.jpg
+21:07:13 [305/306] A pattern created by repetition but never perfectl  ✓ [8] CC0 1.0 310KB  a-pattern-created-by-repetition-but-never-perfectly-repeated.jpg
+21:07:16 [306/306] Any rigid grid with one living thing refusing to f  ✓ [3] BY-NC-SA 2.0 352KB  any-rigid-grid-with-one-living-thing-refusing-to-follow-it.jpg
+21:07:17 === done: +290, 16 unmatched. 450/466 collected ===
+21:12:08 === run: 23 item(s); replace_weak=False ===
+21:12:09 [1/23] Empty parking spaces  ✓ [7] Public domain 380KB  empty-parking-spaces.jpg
+21:12:11 [2/23] Parking-garage columns  ✓ [4] CC BY-SA 2.0 684KB  parking-garage-columns.jpg
+21:12:14 [3/23] Airport runways  ✓ [7] CC BY 4.0 657KB  airport-runways.jpg
+21:12:16 [4/23] Tollbooths  ✓ [4] CC BY-SA 4.0 632KB  tollbooths.jpg
+21:12:18 [5/23] Bicycle docking stations  ✓ [4] CC BY-SA 3.0 742KB  bicycle-docking-stations.jpg
+21:12:20 [6/23] Marina slips  ✓ [4] CC BY 2.0 824KB  marina-slips.jpg
+21:12:23 [7/23] Train-carriage windows  ✓ [7] CC BY-SA 4.0 882KB  train-carriage-windows.jpg
+21:12:25 [8/23] Mailroom pigeonholes  — no match
+21:12:26 [9/23] Watercolor swatch charts  — no match
+21:12:28 [10/23] Typeface specimen charts  — no match
+21:12:29 [11/23] Transit-design specification sheets  — no match
+21:12:31 [12/23] Cassette tapes organized in rows  — no match
+21:12:33 [13/23] Shopping carts nested imperfectly  — no match
+21:12:34 [14/23] An orchestra seated onstage  — no match
+21:12:36 [15/23] Choir members standing on risers  — no match
+21:12:38 [16/23] Volleyball players occupying zones  — no match
+21:12:40 [17/23] Glowing squares spreading across dark pavement  — no match
+21:12:41 [18/23] A repeated-symbol chart with changing colors  — no match
+21:12:43 [19/23] A patchwork textile using mismatched fabrics  — no match
+21:12:44 [20/23] Facial features placed in mismatched cells  — no match
+21:12:46 [21/23] Spreadsheet cells containing inconsistent amounts   — no match
+21:12:48 [22/23] Order visible underneath a collage  — no match
+21:12:50 [23/23] A collage built from uneven photographic rectangle  — no match
+21:12:50 === done: +7, 16 unmatched. 450/466 collected ===

@@ -1,0 +1,307 @@
+/* ============================================================
+   256 — a working archive of grids, order → chaos
+   Visual language borrowed from the Thesis Journal:
+     paper ground + faint grain · one "talking" accent ·
+     Neue Montreal only, with an uppercase-tracked system voice ·
+     square corners · hairline rules · centred measure.
+   Colour comes from the 9-swatch scheme (Saphinka palette).
+   ============================================================ */
+
+@font-face{
+  font-family:"Neue Montreal";
+  src:local("PP Neue Montreal"),local("Neue Montreal"),local("NeueMontreal-Regular"),
+      url("fonts/neuemontreal-regular.otf") format("opentype");
+  font-weight:400;font-style:normal;font-display:swap;
+}
+@font-face{
+  font-family:"Neue Montreal";
+  src:local("PP Neue Montreal Medium"),local("Neue Montreal Medium"),local("NeueMontreal-Medium"),
+      url("fonts/neuemontreal-medium.otf") format("opentype");
+  font-weight:500;font-style:normal;font-display:swap;
+}
+@font-face{
+  font-family:"Neue Montreal";
+  src:local("PP Neue Montreal Bold"),local("Neue Montreal Bold"),local("NeueMontreal-Bold"),
+      url("fonts/neuemontreal-bold.otf") format("opentype");
+  font-weight:600 700;font-style:normal;font-display:swap;
+}
+@font-face{
+  font-family:"Neue Montreal";
+  src:local("PP Neue Montreal Light"),local("Neue Montreal Light"),local("NeueMontreal-Light"),
+      url("fonts/neuemontreal-light.otf") format("opentype");
+  font-weight:300;font-style:normal;font-display:swap;
+}
+
+:root{
+  /* ---- ground + ink (warm paper, from "Day Old Snow") ---- */
+  --bg:#f6efe1;
+  --bg-raise:#efe6d3;
+  --ink:#241a12;            /* near-black brown — body text */
+  --ink-soft:#5f5344;
+  --ink-faint:#8c8069;
+  --line:#ddd2bc;
+  --line-strong:#c7b99c;
+
+  /* ---- the one colour that does the talking ("Jarred Deep Sea") ---- */
+  --head:#3d7c9e;
+  --accent:#3d7c9e;
+  --accent-ink:#f6efe1;
+  --accent-soft:#dbe6ec;
+  --danger:#a8432c;
+  --focus:#3d7c9e;
+
+  --radius:0px;
+  --maxw:1180px;
+  --pad:clamp(16px,3vw,34px);
+
+  --font:"Neue Montreal","Neue Haas Grotesk Text Pro","Inter",
+         "Helvetica Neue",Arial,system-ui,sans-serif;
+
+  /* ---- the 9-swatch scheme — cycled in the Colour view + editor ---- */
+  --c0:#818546;  --c0-ink:#f3efdd;   /* Olives Before Dinner   */
+  --c1:#f5b1b8;  --c1-ink:#5c2a30;   /* Blended Strawberries   */
+  --c2:#884529;  --c2-ink:#f3e3d6;   /* Fresh Cut Wood         */
+  --c3:#ffe4d2;  --c3-ink:#7a4a34;   /* Day Old Snow           */
+  --c4:#4482a3;  --c4-ink:#eef4f7;   /* Jarred Deep Sea        */
+  --c5:#9bc0cc;  --c5-ink:#22414a;   /* Sky To A Bird          */
+  --c6:#c3a05b;  --c6-ink:#3a2b12;   /* Horsing Around         */
+  --c7:#e68a58;  --c7-ink:#4a2413;   /* Sunsets Through Windows */
+  --c8:#99b7a4;  --c8-ink:#25382d;   /* Ocean Wave Break       */
+}
+
+/* light only — no dark-mode variant */
+
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+
+body{
+  background-color:var(--bg);
+  /* faint paper grain so the surface reads as material, not flat fill */
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.82' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.30'/%3E%3C/svg%3E");
+  background-blend-mode:multiply;
+  color:var(--ink);
+  font-family:var(--font);
+  font-size:13px;
+  line-height:1.62;
+  letter-spacing:-0.004em;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+b,strong{font-weight:500}
+a{color:inherit}
+::selection{background:var(--head);color:var(--accent-ink)}
+
+/* the "system" voice — uppercase, tracked, faint. Used for every label,
+   count, kicker and nav item, exactly like the journal's .sys token. */
+.counts,.arena-link,.view-btn,.chk,.ghost,.group-head .g-desc,
+.group-head .g-count,.slip-rank,.cap-src,.empty,.d-row label,
+.d-actions button,.d-links,.d-meta,.toast{
+  font-feature-settings:"tnum" 1;
+}
+
+/* ---------- masthead ---------- */
+.masthead{
+  max-width:var(--maxw);margin:0 auto;width:100%;
+  display:flex;justify-content:space-between;align-items:flex-start;
+  gap:28px;flex-wrap:wrap;
+  padding:22px var(--pad) 0;
+}
+.masthead h1{
+  margin:0;color:var(--head);
+  font-size:clamp(34px,6.5vw,56px);font-weight:600;
+  letter-spacing:-0.045em;line-height:0.96;
+}
+.tag{
+  margin:12px 0 0;color:var(--ink-soft);
+  font-size:12.5px;letter-spacing:-0.005em;max-width:48ch;
+}
+.mast-right{
+  display:flex;flex-direction:column;gap:10px;align-items:flex-end;
+  text-align:right;padding-top:6px;
+}
+.counts{display:flex;gap:20px;color:var(--ink-faint);
+  font-size:10px;text-transform:uppercase;letter-spacing:0.13em}
+.counts span{display:flex;flex-direction:column;gap:3px;line-height:1}
+.counts b{color:var(--ink);font-size:16px;font-weight:500;letter-spacing:-0.02em}
+.counts i{font-style:normal}
+.arena-link{
+  font-size:10px;text-transform:uppercase;letter-spacing:0.13em;
+  color:var(--ink-faint);text-decoration:none;
+  border-bottom:1px solid var(--line-strong);padding-bottom:3px;
+}
+.arena-link:hover{color:var(--head);border-color:var(--head)}
+
+/* ---------- view tabs ---------- */
+.views{
+  max-width:var(--maxw);margin:22px auto 0;width:100%;
+  display:flex;gap:2px;flex-wrap:wrap;
+  padding:0 var(--pad);
+  border-bottom:1px solid var(--line);
+}
+.view-btn{
+  appearance:none;background:none;border:0;
+  color:var(--ink-faint);font-family:inherit;
+  font-size:10.5px;text-transform:uppercase;letter-spacing:0.13em;
+  padding:9px 13px 12px;cursor:pointer;
+}
+.view-btn em{font-style:normal;letter-spacing:0.08em;opacity:0.55;margin-left:7px}
+.view-btn:hover{color:var(--ink)}
+.view-btn.is-active{color:var(--head);box-shadow:inset 0 -2px 0 0 var(--head)}
+
+/* ---------- toolbar ---------- */
+.toolbar{
+  max-width:var(--maxw);margin:0 auto;width:100%;
+  display:flex;gap:22px;align-items:center;flex-wrap:wrap;
+  padding:20px var(--pad) 18px;
+}
+#q{
+  flex:1;min-width:220px;max-width:420px;
+  border:0;border-bottom:1px solid var(--line-strong);
+  background:none;color:var(--ink);font-family:inherit;
+  font-size:18px;font-weight:500;letter-spacing:-0.02em;
+  padding:8px 2px;outline:none;
+}
+#q::placeholder{color:var(--ink-faint);font-size:13px;font-weight:400;letter-spacing:0}
+#q:focus{border-color:var(--ink)}
+.chk{
+  display:flex;align-items:center;gap:8px;cursor:pointer;user-select:none;
+  color:var(--ink-faint);font-size:10px;text-transform:uppercase;letter-spacing:0.09em;
+}
+.chk input{accent-color:var(--accent)}
+.tb-spacer{flex:1}
+.ghost{
+  border:1px solid var(--line-strong);background:none;color:var(--ink-soft);
+  font-family:inherit;font-size:10px;text-transform:uppercase;letter-spacing:0.11em;
+  padding:8px 14px;cursor:pointer;border-radius:var(--radius);
+}
+.ghost:hover{color:var(--ink);border-color:var(--ink-soft)}
+
+/* ---------- groups + grid ---------- */
+#stage{
+  max-width:var(--maxw);margin:0 auto;width:100%;
+  padding:0 var(--pad) 120px;
+}
+.view-note{
+  max-width:60ch;margin:26px 0 4px;
+  font-size:12.5px;line-height:1.6;color:var(--ink-soft);
+}
+.group{padding:0}
+.group-head{
+  display:flex;align-items:baseline;gap:14px;
+  padding:38px 0 12px;margin:0;
+  position:sticky;top:0;background:var(--bg);z-index:10;
+}
+.group:first-child .group-head{padding-top:20px}
+@media(max-width:860px){.group-head{position:static}}
+.group-head h2{
+  margin:0;color:var(--head);
+  font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.2em;
+}
+.group-head .g-desc,.group-head .g-count{display:none}
+
+.grid{
+  display:grid;gap:0;
+  grid-template-columns:repeat(auto-fill,minmax(150px,1fr));
+}
+@media(min-width:900px){.grid{grid-template-columns:repeat(auto-fill,minmax(174px,1fr))}}
+
+/* card = just the image. no border, no gutter, no caption. */
+.card{display:block;cursor:pointer}
+.thumb{
+  position:relative;aspect-ratio:1/1;overflow:hidden;background:var(--bg-raise);
+}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:opacity .12s}
+.card:hover .thumb img{opacity:0.82}
+.card.needed .thumb img{display:none}
+.slip{
+  display:none;position:absolute;inset:0;padding:13px;
+  flex-direction:column;gap:8px;background:var(--bg-raise);
+}
+.card.needed .slip{display:flex}
+.slip-rank{
+  font-size:9px;text-transform:uppercase;letter-spacing:0.12em;color:var(--ink-faint);
+}
+.slip-text{font-size:11.5px;line-height:1.4;color:var(--ink)}
+.swatch-strip,.cap{display:none}
+
+.empty{
+  color:var(--ink-faint);font-size:10px;text-transform:uppercase;letter-spacing:0.1em;
+  padding:10px 0;
+}
+
+/* ---------- drawer / editor ---------- */
+.drawer-scrim{position:fixed;inset:0;background:color-mix(in srgb,#181008 62%,transparent);z-index:40}
+.drawer{
+  position:fixed;top:0;right:0;height:100%;width:min(452px,94vw);z-index:41;
+  background:var(--bg);border-left:1px solid var(--line-strong);overflow-y:auto;
+  padding:28px 26px 72px;font-size:13px;
+}
+.drawer h3{
+  margin:0 0 6px;color:var(--head);
+  font-size:19px;font-weight:600;letter-spacing:-0.025em;line-height:1.28;
+}
+.drawer .d-close{
+  position:absolute;top:18px;right:18px;background:none;border:1px solid var(--line-strong);
+  width:30px;height:30px;font-size:15px;line-height:1;cursor:pointer;color:var(--ink-soft);
+}
+.drawer .d-close:hover{color:var(--ink);border-color:var(--ink-soft)}
+.d-media{
+  aspect-ratio:4/3;border:1px solid var(--line);background:var(--accent-soft);
+  margin:16px 0;display:flex;align-items:center;justify-content:center;overflow:hidden;
+}
+.d-media img{width:100%;height:100%;object-fit:contain}
+.d-media .ph{
+  font-size:10px;text-transform:uppercase;letter-spacing:0.09em;
+  color:var(--ink-faint);padding:24px;text-align:center;line-height:1.9;
+}
+.d-row{margin:18px 0}
+.d-row label{
+  display:block;margin-bottom:8px;
+  font-size:10px;text-transform:uppercase;letter-spacing:0.14em;color:var(--ink-faint);
+}
+.d-row select,.d-row input[type=text],.d-row textarea{
+  width:100%;font-family:inherit;font-size:13px;color:var(--ink);
+  background:var(--bg-raise);border:1px solid var(--line-strong);
+  padding:9px 11px;border-radius:var(--radius);outline:none;
+}
+.d-row select:focus,.d-row input[type=text]:focus,.d-row textarea:focus{border-color:var(--focus)}
+.d-row textarea{min-height:66px;resize:vertical;line-height:1.6}
+.d-actions{display:flex;gap:8px;flex-wrap:wrap}
+.d-actions button{
+  font-family:inherit;font-size:10px;text-transform:uppercase;letter-spacing:0.1em;
+  padding:8px 12px;background:none;border:1px solid var(--line-strong);
+  cursor:pointer;color:var(--ink-soft);border-radius:var(--radius);
+}
+.d-actions button:hover{color:var(--ink);border-color:var(--ink-soft)}
+.d-actions button.primary{
+  background:var(--accent);color:var(--accent-ink);border-color:var(--accent);
+}
+.d-actions button.primary:hover{opacity:0.85;color:var(--accent-ink)}
+.d-links{list-style:none;padding:0;margin:8px 0 0;
+  font-size:10px;text-transform:uppercase;letter-spacing:0.06em}
+.d-links li{padding:7px 0;border-top:1px solid var(--line)}
+.d-links a{text-decoration:none;color:var(--ink-soft)}
+.d-links a:hover{color:var(--head)}
+.d-meta{
+  font-size:10px;text-transform:uppercase;letter-spacing:0.08em;
+  color:var(--ink-faint);margin-top:6px;
+}
+.d-aka{
+  margin:8px 0 0;font-size:11px;line-height:1.5;color:var(--ink-soft);
+}
+.d-swatches{display:flex;gap:4px;margin-top:8px}
+.d-swatches i{width:26px;height:26px;border:1px solid var(--line-strong)}
+
+.toast{
+  position:fixed;left:50%;bottom:28px;transform:translateX(-50%);z-index:60;
+  background:var(--ink);color:var(--bg);
+  font-size:10px;text-transform:uppercase;letter-spacing:0.12em;
+  padding:10px 18px;border-radius:var(--radius);
+  opacity:0;transition:opacity .2s;pointer-events:none;
+}
+.toast.show{opacity:1}
+
+[hidden]{display:none!important}
+
+.readonly #add-btn{display:none}

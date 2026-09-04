@@ -1,0 +1,405 @@
+# SPECTRUM: order | Order: clear, controlled grids
+1. Empty parking spaces
+2. Parking-garage columns
+3. Cars perfectly aligned in a dealership
+4. Crosswalk stripes
+5. Highway lanes
+6. Airport runways
+7. Tollbooths
+8. Bicycle docking stations
+9. Bike racks
+10. Marina slips
+11. Railway tracks and sleepers
+12. Train-carriage windows
+13. Subway-platform tiles
+14. Airport security lanes
+15. Baggage-claim carts
+16. Bus-depot parking bays
+17. Shipping containers
+18. Warehouse pallets
+19. Sidewalk paving slabs
+20. Brick walls
+21. Cinder-block walls
+22. Cobblestone streets
+23. Scaffolding
+24. Construction-site rebar
+25. Chain-link fences
+26. Metal security fences
+27. Window screens
+28. Building facades
+29. Apartment balconies
+30. Fire escapes
+31. Glass office partitions
+32. Glass-block walls
+33. Curtain-wall buildings
+34. Architectural floor plans
+35. Blueprints
+36. Street maps
+37. City blocks seen from above
+38. Apartment mailboxes
+39. Safety-deposit boxes
+40. Cemetery plots
+41. Rows of headstones
+42. Solar-panel fields
+43. Electrical substations
+44. Server racks
+45. Circuit boards
+46. LED panels
+47. Factory assembly lines
+48. Conveyor belts
+49. Warehouse shelving
+50. Tool pegboards
+51. Hardware-organizer drawers
+52. Rows of lockers
+53. School cubbies
+54. Classroom desks before class
+55. Empty lecture-hall seats
+56. Library bookshelves
+57. Library tables
+58. Office cubicles
+59. Computer-lab stations
+60. Filing cabinets
+61. Archive boxes
+62. Museum-storage drawers
+63. Mailroom pigeonholes
+64. Ceiling panels
+65. Fluorescent ceiling lights
+66. Window blinds
+67. Keyboard keys
+68. Numerical keypads
+69. Elevator buttons
+70. Apartment intercom buttons
+71. Calendar pages
+72. Spreadsheet cells
+73. Graph paper
+74. Contact sheets
+75. Film strips
+76. QR codes ★
+77. Barcodes
+78. Color-checker cards
+79. Watercolor swatch charts ★
+80. Paint-swatch walls
+81. Pantone charts ★
+82. Typeface specimen charts ★
+83. Transit-design specification sheets ★
+84. Registration and measurement sheets ★
+85. Rows of keys organized by type ★
+86. Cassette tapes organized in rows ★
+87. Camera typology collections ★
+88. Photo archives arranged as thumbnails ★
+89. Supermarket aisles
+90. Canned goods on shelves
+91. Bottled drinks in refrigerators
+92. Trader Joe's refrigerator doors
+93. Refrigerator-door handles
+94. Freezer doors across an aisle
+95. Products aligned behind refrigerator glass
+96. Shelf dividers
+97. Price labels beneath products
+98. Milk cartons
+99. Yogurt containers
+100. Egg cartons
+101. Vending-machine compartments
+102. Pharmacy shelves
+103. Pill blister packs
+104. Bakery trays
+105. Muffin tins
+106. Ice-cube trays
+107. Chocolate bars
+108. Bento boxes
+109. Sushi trays
+110. Wine racks
+111. Spice jars
+112. Cutlery organizers
+113. Dish-drying racks
+114. Oven racks
+115. Cooling racks
+116. Kitchen tiles
+117. Bathroom tiles
+118. Parquet floors
+119. Tatami mats
+120. Yoga mats before a class
+
+# SPECTRUM: inhabited | Order with variation: the grid becomes inhabited
+121. Cars occupying some parking spaces
+122. A parking lot with several empty spaces
+123. Cars parked in different colors
+124. Shopping carts nested imperfectly
+125. Bicycles of different sizes in one rack
+126. Motorcycles squeezed into marked bays
+127. Luggage moving through airport security trays
+128. Suitcases circulating on baggage claim
+129. Passengers sitting in airport rows
+130. People occupying subway seats
+131. Different bodies arranged in airplane seats
+132. Commuters standing between train poles
+133. People waiting at boarding gates
+134. Taxi queues
+135. Bus queues
+136. Traffic filling a street grid
+137. Boats occupying marina slips
+138. Containers stacked in different colors
+139. Windows lit differently across an apartment building ★
+140. People visible through separate apartment windows ★
+141. Curtains changing from window to window
+142. Plants growing across balcony grids
+143. Laundry hanging from repeated balconies
+144. Air conditioners interrupting a facade
+145. Open and closed windows
+146. Different objects placed on identical shelves
+147. Books of uneven heights on a bookshelf
+148. Shoes filling a shoe rack
+149. Coats hanging from evenly spaced hooks
+150. Family photographs arranged on a wall
+151. Post-it notes on a planning wall
+152. Name tags laid out for an event
+153. Employee ID cards on a rack
+154. Student work pinned to a critique wall
+155. Classroom desks occupied by students
+156. People seated in lecture-hall rows
+157. Students posing for a class photograph
+158. Rows of people at graduation
+159. Conference audiences
+160. Theater audiences
+161. Church congregations in pews
+162. Stadium crowds ★
+163. Wimbledon spectators filling tiered seats ★
+164. Bleachers with scattered spectators
+165. An orchestra seated onstage
+166. Choir members standing on risers
+167. Marching-band formations
+168. Military formations
+169. Parade participants
+170. Dancers in formation
+171. Ballet students at a barre
+172. Yoga mats occupied by different bodies
+173. People in a group exercise class
+174. Spin bikes occupied at different intensities
+175. Swimmers separated into lanes
+176. Runners at a starting line
+177. Cyclists inside a peloton
+178. Workers along an assembly line
+179. Chefs at separate kitchen stations
+180. Barbershop chairs in use
+181. Restaurant tables during service
+182. Place settings at a banquet
+183. Cafeteria trays with different meals
+184. Food-delivery bags lined up
+185. Produce arranged in market crates
+186. Fruit stacked into loose pyramids
+187. Dumplings lined up by hand
+188. Cookies spaced across baking sheets
+189. Cupcakes in display cases
+190. Bread loaves on bakery racks
+191. Clothes hanging along retail racks
+192. Folded shirts slowly becoming uneven
+193. Shoes displayed as pairs
+194. Sunglasses on a display wall
+195. Lipsticks arranged by shade
+196. Nail-polish bottles arranged by color
+197. Fabric swatches
+198. Tile samples
+199. Magazine racks
+200. Vinyl records in bins
+201. Tennis-court markings during a match
+202. Basketball players moving across court lines
+203. Volleyball players occupying zones
+204. Soccer players over mowing stripes
+205. Football players across yard lines
+206. Swimmers breaking the stillness of pool lanes
+207. Bowling balls placed unevenly in racks
+208. Climbing holds distributed across a wall
+209. Chess pieces during a game
+210. Scrabble tiles on a board
+211. Bingo cards being marked
+212. Foosball players in fixed formations
+213. Crop fields seen from above
+214. Vineyard rows
+215. Orchard trees
+216. Rice paddies
+217. Tea plantations
+218. Community-garden plots
+219. Greenhouse frames
+220. Plant-nursery trays
+221. Seedlings growing at different speeds
+222. Flower beds
+223. Hedge mazes
+224. Irrigation channels
+225. Hay bales across a field
+226. Timber stacks
+227. Fishing nets
+228. Honeycomb with a few dark or empty cells ★
+229. Beetle compound eyes ★
+230. Sunflower seeds
+231. Corn kernels
+232. Pinecone scales
+233. Leaf-cell structures
+234. Tree bark divided into rough rectangles
+235. Cracked earth
+236. Salt flats
+237. Rows of beach umbrellas
+238. Campsite plots
+239. Hotel windows with different lights on
+240. A wall of television screens showing different footage
+
+# SPECTRUM: pressure | Grid under pressure: order and chaos together
+241. A crowded parking lot
+242. Cars parked across painted lines
+243. Double-parked cars
+244. Shopping carts scattered around parking bays
+245. Traffic jammed inside an ordered road system
+246. Pedestrians crossing outside a crosswalk
+247. A crowd spilling through queue barriers
+248. Airport lines folding back on themselves
+249. Bikes locked on top of one another
+250. A bicycle rack with abandoned wheels
+251. E-scooters scattered across sidewalk tiles
+252. Construction materials filling scaffolding bays
+253. Torn construction mesh
+254. Bent chain-link fencing
+255. A hand reaching through a chain-link fence ★
+256. Plants growing through a metal fence
+257. Flowers seen through gridded glass ★
+258. Ivy overtaking a brick wall
+259. Weeds growing between paving stones
+260. A cracked tiled floor
+261. Missing tiles in a tiled wall
+262. Mismatched replacement tiles
+263. A warped brick wall
+264. Broken windows across a regular facade
+265. Apartment windows with irregular lights ★
+266. Objects pressed against different windows
+267. Laundry creating noise across balcony grids
+268. Satellite dishes interrupting apartment facades
+269. Fire escapes layered over window grids
+270. Reflections breaking a glass-building grid
+271. A person moving behind translucent windows ★
+272. Shadows crossing a tiled surface
+273. Forks interlocking into a distorted grid ★
+274. Bent wire mesh
+275. A wire grid being pulled out of shape ★
+276. A grid folding into three dimensions ★
+277. A grid cut open in one corner
+278. A grid with one cell stretched
+279. A grid with one row slipping sideways
+280. A grid interrupted by a circle
+281. A grid obscured by fog
+282. A grid disappearing into darkness
+283. A grid reflected in moving water
+284. Light passing through perforated screens
+285. Pixelated heat maps with irregular concentrations ★
+286. Glowing squares spreading across dark pavement ★
+287. Blocks clustering unevenly
+288. A Tetris board with gaps
+289. Sticky notes falling from a planning wall
+290. An overfilled bulletin board
+291. Posters pasted over tile joints
+292. Torn flyers layered on a street wall
+293. Newspaper columns crossed by hand-drawn lines ★
+294. Typography escaping its columns ★
+295. Letters scattered across an underlying grid ★
+296. A perfect matrix with one symbol missing
+297. A repeated-symbol chart with changing colors ★
+298. A black-and-white grid invaded by diagonal stripes ★
+299. Rectangles rotated inside a square field ★
+300. Squares scattered over an invisible grid ★
+301. Strips woven across one another ★
+302. A woven mat with interrupted colors
+303. A damaged basket weave
+304. A quilt with irregular patches
+305. A patchwork textile using mismatched fabrics ★
+306. A signature quilt made from repeated cubes ★
+307. A floral textile built over square modules ★
+308. A woven textile with bright blocks breaking a neutral field ★
+309. A geometric quilt that almost forms a face ★
+310. Repeated squares distorted into an optical pattern ★
+311. A colored-dot matrix shifting between circles and squares ★
+312. Nested squares with changing colors ★
+313. Blocks of color placed inside photographic imagery ★
+314. A face reconstructed through square fragments ★
+315. A portrait breaking into pixel blocks ★
+316. Eyes collected and recombined into a grid ★
+317. Facial features placed in mismatched cells ★
+318. Bodies folded inside individual boxes ★
+319. A person exceeding the boundaries of their box
+320. A crowd treated as hundreds of individual cells ★
+321. A crowd with inconsistent spacing
+322. People leaving gaps in rows of seats
+323. People standing on chairs in a seated crowd
+324. Protest signs breaking the regularity of a crowd
+325. Stadium seats after people begin leaving
+326. Yoga mats shifting during a crowded class
+327. Tables pushed together after an event
+328. Chairs scattered after a lecture
+329. Desks rearranged for group work
+330. Lockers covered in stickers and notes
+331. Books collapsing across shelf divisions
+332. Grocery products removed from the middle of a display
+333. Refrigerators with partially empty shelves
+334. Products pushed into the wrong supermarket row
+335. Mixed packaging creating noise behind refrigerator glass
+336. Sale stickers interrupting orderly product displays
+337. A freezer shelf after shoppers have searched through it
+338. Shopping baskets stacked at different angles
+339. Cassette tapes arranged like bricks but varying in size ★
+340. Screens scattered across a dark installation ★
+341. Photographs organized into cells of different sizes ★
+342. Clouds split across photographic contact sheets ★
+343. Birds crossing the divisions of a photo grid ★
+344. A landscape cut apart and recombined into tiles ★
+345. An aerial settlement that resembles an overwhelming maze ★
+346. Agricultural plots with irregular boundaries
+347. Aerial city blocks interrupted by highways
+348. A formal garden becoming overgrown
+349. A honeycomb with damaged cells
+350. A spiderweb repaired unevenly
+351. A pile of toilet-paper rolls forming a loose grid ★
+352. Boxes stacked without aligning
+353. Crates piled at a market
+354. Pallets collapsing into one another
+355. Construction bricks left in partial rows
+356. Rebar becoming dense visual interference
+357. Electrical cables crossing a server rack
+358. Pipes weaving around a structural grid
+359. Glitching pixels on an LED screen
+360. Surveillance monitors displaying unrelated scenes
+361. Digital windows overlapping on a desktop
+362. App icons interrupted by notification badges
+363. Browser tabs accumulating across the screen
+364. Spreadsheet cells containing inconsistent amounts of text
+365. Calendar blocks overlapping
+366. A QR code damaged by paint or tearing
+367. A mosaic with missing pieces
+368. Film frames scratched or burned
+369. A photo contact sheet with crossed-out images
+370. A color chart stained by use
+371. Modular shelving with objects extending outside each cell
+372. A Sol LeWitt-like corner grid becoming three-dimensional ★
+373. A wire sculpture that begins as a grid and bends outward ★
+374. A regular structure invaded by soft materials
+375. Fabric stretched unevenly across a frame
+376. Tiles covered by plant shadows
+377. A glass grid obscured by condensation
+378. Rain breaking reflections across windowpanes
+379. A crowd seen through fencing
+380. Order visible underneath a collage
+381. A collage of architectural fragments ★
+382. A collage built from uneven photographic rectangles ★
+383. A grid overwritten by handwriting
+384. Measurement lines crossed by expressive marks
+385. Architectural plans covered with construction notes
+386. A seating plan changed by people moving chairs
+387. A formal dinner after people have started eating
+388. A supermarket display midway through restocking
+389. A parking lot during an event
+390. A city street grid during a parade
+391. A tiled station during rush hour
+392. A gridded facade during demolition
+393. Windows boarded with mismatched panels
+394. A fence repaired with improvised materials
+395. Crop rows damaged by weather
+396. Footprints cutting diagonally across a field
+397. Beach chairs moved away from their rows
+398. Cemetery plots overtaken by plants
+399. A pattern created by repetition but never perfectly repeated
+400. Any rigid grid with one living thing refusing to follow it

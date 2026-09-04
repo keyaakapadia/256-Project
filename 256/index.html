@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>256 — grids from order to chaos</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="mast-left">
+    <h1>256</h1>
+    <p class="tag">grids, from order to chaos — a working archive</p>
+  </div>
+  <div class="mast-right">
+    <div class="counts">
+      <span><b id="c-total">0</b><i>grids</i></span>
+      <span><b id="c-collected" hidden></b></span>
+      <span><b id="c-needed" hidden></b></span>
+    </div>
+    <a class="arena-link" id="arena-link" href="#" target="_blank" rel="noopener">Are.na channel ↗</a>
+  </div>
+</header>
+
+<nav class="views">
+  <button class="view-btn is-active" data-view="spectrum">Spectrum <em>order → chaos</em></button>
+  <button class="view-btn" data-view="folders">Folders <em>by subject</em></button>
+  <button class="view-btn" data-view="colour">Colour <em>by swatch</em></button>
+</nav>
+
+<div class="toolbar">
+  <input type="search" id="q" placeholder="search names, sources, notes…" autocomplete="off">
+  <span class="tb-spacer"></span>
+  <button id="add-btn" class="ghost">+ new item</button>
+</div>
+
+<main id="stage"><!-- groups render here --></main>
+
+<div class="drawer-scrim" id="scrim" hidden></div>
+<aside class="drawer" id="drawer" hidden aria-label="item editor"><!-- filled by JS --></aside>
+
+<template id="tpl-card">
+  <article class="card">
+    <div class="thumb">
+      <img loading="lazy" alt="">
+      <div class="slip">
+        <span class="slip-rank"></span>
+        <span class="slip-text"></span>
+      </div>
+    </div>
+    <div class="cap">
+      <span class="cap-title"></span>
+    </div>
+  </article>
+</template>
+
+<script src="data/collection.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
