@@ -305,3 +305,48 @@ a{color:inherit}
 [hidden]{display:none!important}
 
 .readonly #add-btn{display:none}
+
+/* ---------- Meaning view — the grid system itself shifts per meaning ---------- */
+
+/* contain: each cell reads as a box/window — a visible frame */
+.m-contain{gap:6px;background:var(--line)}
+.m-contain .card{background:var(--bg)}
+.m-contain .thumb{margin:5px}
+
+/* separate: real gaps, a hairline between every cell */
+.m-separate{gap:3px;background:var(--line-strong)}
+.m-separate .card{background:var(--bg)}
+
+/* measure: a faint ruled ground under the images, like graph paper */
+.m-measure{
+  gap:1px;padding:1px;background:
+    repeating-linear-gradient(var(--bg) 0 23px, var(--line) 23px 24px),
+    repeating-linear-gradient(90deg, var(--bg) 0 23px, var(--line) 23px 24px);
+}
+
+/* control: locked to identical cells, no gap, no give */
+.m-control{gap:0}
+.m-control .card{pointer-events:auto}
+.m-control .thumb img{transition:none}
+.m-control .card:hover .thumb img{opacity:1;filter:brightness(0.85)}
+
+/* repeat: tight, uninterrupted — the module just keeps going */
+.m-repeat{gap:0}
+
+/* play: scale and tilt loosely, like the images are still being placed */
+.m-play .card:nth-child(5n+1){transform:rotate(-1.6deg) scale(0.97)}
+.m-play .card:nth-child(5n+2){transform:rotate(1.2deg) scale(1.02)}
+.m-play .card:nth-child(5n+3){transform:rotate(-0.6deg)}
+.m-play .card:nth-child(5n+4){transform:rotate(1.8deg) scale(0.96)}
+.m-play .card{transition:transform .15s ease}
+.m-play .card:hover{transform:rotate(0deg) scale(1.06);z-index:5;position:relative}
+
+/* break: cells overlap and escape their positions */
+.m-break{gap:0}
+.m-break .card:nth-child(6n+1){transform:rotate(-3deg) translate(-4px,3px);z-index:2;position:relative}
+.m-break .card:nth-child(6n+2){transform:rotate(2.4deg) translate(3px,-4px) scale(1.05);z-index:3;position:relative}
+.m-break .card:nth-child(6n+3){transform:none}
+.m-break .card:nth-child(6n+4){transform:rotate(-1.6deg) scale(0.92);z-index:1;position:relative}
+.m-break .card:nth-child(6n+5){transform:rotate(3.2deg) translate(-3px,4px);z-index:4;position:relative}
+.m-break .card{transition:transform .15s ease}
+.m-break .card:hover{transform:none!important;z-index:9!important}

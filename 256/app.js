@@ -14,6 +14,17 @@ const SPECTRUM_META = {
   pressure:  ["Under pressure", ""],
   unsorted:  ["Unplaced", ""],
 };
+
+/* Meaning: the same grid read by what it's for, not what it shows.
+   Ordered roughly least -> most disordered, so it reads like a second
+   spectrum. Each meaning also nudges how its own row of cards sits. */
+const MEANING_ORDER = ["organize", "contain", "separate", "guide", "measure",
+                       "control", "repeat", "play", "break"];
+const MEANING_META = {
+  organize: ["Organize", ""], contain: ["Contain", ""], separate: ["Separate", ""],
+  guide:    ["Guide", ""],    measure: ["Measure", ""], control:  ["Control", ""],
+  repeat:   ["Repeat", ""],   play:    ["Play", ""],    break:    ["Break", ""],
+};
 /* Colour view: no names, no buckets — every image placed on one continuous
    run, ordered by its own average colour. */
 function rgb2hsl(r, g, b) {
@@ -116,6 +127,13 @@ function groupsForView(items) {
       .filter(([, arr]) => arr.length)
       .map(([c, arr]) => mkGroup(c, [c, `${arr.length} image${arr.length === 1 ? "" : "s"}`], arr.sort(byOrder)));
   }
+  if (state.view === "meaning") {
+    const map = Object.fromEntries(MEANING_ORDER.map(m => [m, []]));
+    items.forEach(it => (map[it.meaning] || map.play).push(it));
+    return MEANING_ORDER
+      .filter(m => map[m].length)
+      .map(m => mkGroup(m, MEANING_META[m], map[m].sort(byOrder)));
+  }
   // colour — one continuous run, ordered by each image's own average colour
   const sorted = [...items].sort((a, b) => {
     const ka = colourSortKey(a), kb = colourSortKey(b);
@@ -151,7 +169,7 @@ function render() {
       sec.appendChild(e);
     } else {
       const grid = document.createElement("div");
-      grid.className = "grid";
+      grid.className = state.view === "meaning" ? "grid m-" + g.key : "grid";
       for (const it of g.items) grid.appendChild(card(it, tpl));
       sec.appendChild(grid);
     }
@@ -208,6 +226,11 @@ function openDrawer(it) {
     <div class="d-row"><label>Folder — subject</label>
       <select data-k="category">${cats.map(c => opt(c, it.category)).join("")}</select></div>
 
+    <div class="d-row"><label>Meaning — what the grid is for</label>
+      <select data-k="meaning">${MEANING_ORDER.map(m => opt(m, it.meaning, MEANING_META[m][0])).join("")}</select>
+      ${it.meaning2 ? `<div class="d-meta">also reads as ${esc(MEANING_META[it.meaning2][0].toLowerCase())}</div>` : ""}
+    </div>
+
     ${it.color && it.color.palette && it.color.palette.length ? `
     <div class="d-row"><label>Average colour</label>
       <div class="d-swatches">
@@ -257,6 +280,7 @@ function openDrawer(it) {
     const fields = {
       spectrum: $('[data-k="spectrum"]', d).value || null,
       category: $('[data-k="category"]', d).value,
+      meaning: $('[data-k="meaning"]', d).value,
       notes: $('[data-k="notes"]', d).value,
     };
     const su = $("#d-srcurl", d);
